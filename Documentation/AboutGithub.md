@@ -7,13 +7,26 @@ So, in short, Github is a website that helps people share and collaborate on com
 > Now you know why everyone is using Gihub but let's learn how to use it in your own computer.
 
 **Creating Github profile**
-1. The following link https://github.com/ takes you to Github sign in/sign up page.
+1. The following link [Github](https://github.com/) takes you to Github sign in/sign up page.
 2. Click sign up in the top right corner to create your own account. Once you clicked the sign up icon the below image will show up.
-<img alt="Image description" src="/Images/Github_sign_up.png" title= "Github Signup" />
+<img alt="Image description" src="/Images/Github_signup.png" title= "Github Signup" />
 3. Enter your email id and then it will ask you to create a password for your account.
-4. Then it will ask you to verify the email address. Please do this for more security.
+4. Then it will ask for your username. Type a unique username and make sure to save it in your notepad.
+5. Then it will ask you to verify the email address. Please do this for more security.
 
-Note: Please use the following link [Github Signup](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) to know more the Github profile creation.
+_Note: Please use the following link [Github Signup](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) to know more about the Github profile creation._
+
+> After completing all the tasks listed above, an image similar to the one displayed below will appear.
+
+<img alt="Image description" src="/Images/Github_home.png" title= "Github Home" />
+
+
+
+
+
+> Well Done, you had created your first Github account. Now let's dive deep.
+
+**Familiarize yourself with Github Environment**
 
 
 
