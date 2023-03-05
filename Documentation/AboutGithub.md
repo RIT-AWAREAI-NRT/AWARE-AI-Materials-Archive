@@ -1,12 +1,11 @@
-Research Assistant
 
-username	sm3533
+
 PAT Token	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
 Youtube video for creating PAT (https://youtu.be/kHkQnuYzwoo)
+
 Github URL	https://github.com/sm3533/AWARE-AI.git
 
-
-Small Intro From ChatGPT about Github:
+**Small Intro From ChatGPT about Github**
 
 Github is a website where people can share and collaborate on computer code. It's like a big online library where people can store their code and work on it with others.
 Just like how people can collaborate on a document by sharing it with others and making changes, people on Github can collaborate on computer code. They can share their code with others, make changes to it, and work together to improve it.
