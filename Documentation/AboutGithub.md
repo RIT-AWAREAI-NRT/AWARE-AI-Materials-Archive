@@ -77,7 +77,10 @@ Step 2:
 
 How to check your system is 32 bit or 64bit? —> Try to follow the steps from the below screenshot
 
-￼<img src="Images/Git_Install.png" alt="Alt text" title="Optional title" style="display: inline-block; margin: 0 auto; max-width: 300px">
+￼   <img src="Images/Git_Install.png"
+    alt="Alt text" 
+    title="Git Install" 
+    width="300">
 
 Once you know your system information then go to Step 1 link which you had already opened.
 
