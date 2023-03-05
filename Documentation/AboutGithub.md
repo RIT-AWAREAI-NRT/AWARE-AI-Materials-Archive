@@ -8,8 +8,13 @@ So, in short, Github is a website that helps people share and collaborate on com
 
 **Creating Github profile**
 1. The following link https://github.com/ takes you to Github sign in/sign up page.
-2. Click sign up in the top right corner to create your own account. Once you clicked the sign up icon the below image captioned "Github Signup" will show up.
+2. Click sign up in the top right corner to create your own account. Once you clicked the sign up icon the below image will show up.
 <img alt="Image description" src="/Images/Github_sign_up.png" title= "Github Signup" />
+3. Enter your email id and then it will ask you to create a password for your account.
+4. Then it will ask you to verify the email address. Please do this for more security.
+
+Note: Please use the below link to know more the Github profile creation
+[id]: https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account "Github Signup"
 
 
 Github URL	https://github.com/sm3533/AWARE-AI.git
