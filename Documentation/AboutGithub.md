@@ -1,4 +1,4 @@
-**An Intro About Github**
+## An Intro About Github
 
 Github is a website where people can share and collaborate on computer code. It's like a big online library where people can store their code and work on it with others.
 Just like how people can collaborate on a document by sharing it with others and making changes, people on Github can collaborate on computer code. They can share their code with others, make changes to it, and work together to improve it. This is really useful for software developers who want to work on projects with other developers, or for people who are learning how to code and want to see how other people solve coding problems. Github is also used by companies to manage their software development projects.
@@ -27,6 +27,13 @@ _Note: Please use the following link [Github Signup](https://docs.github.com/en/
 * Click the image at the top right corner with an eye and a mouth image with arrow turned upside down. You will see the below image once you clicked the above icon.
 
 <img alt="Image description" src="/Images/Profile_icon.png" title= "Profile Icon" />
+
+* You don't need to know all the options listed in the dropdown image above. But _Your profile_ , _Your repositories_ and _Settings_ are important option which will be useful to make changes to your Github account.
+
+* If you click the _Your Profile_ option it will take you to your home page. Which will show you the projects you are working on and your Github activity from the day you created the account. An image is shown below for your reference.
+
+<img alt="Image description" src="/Images/Your_profile.png" title= "Your Profile" />
+
 
 
 Github URL	https://github.com/sm3533/AWARE-AI.git
