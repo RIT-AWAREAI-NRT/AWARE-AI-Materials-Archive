@@ -6,6 +6,12 @@ So, in short, Github is a website that helps people share and collaborate on com
 
 > Now you know why everyone is using Gihub but let's learn how to use it in your own computer.
 
+**Creating Github profile**
+1. The following link https://github.com/ takes you to Github sign in/sign up page.
+2. Click sign up in the top right corner to create your own account.
+<img src="/Images/Github_sign_up.png">
+
+
 Github URL	https://github.com/sm3533/AWARE-AI.git
 
 PAT Token	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
