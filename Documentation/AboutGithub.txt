@@ -78,7 +78,7 @@ Step 2:
 How to check your system is 32 bit or 64bit? —> Try to follow the steps from the below screenshot
 
 ￼<img
-  src="![My Image](Images/Git_Install.png)"
+  src="Images/Git_Install.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
