@@ -13,8 +13,8 @@ So, in short, Github is a website that helps people share and collaborate on com
 3. Enter your email id and then it will ask you to create a password for your account.
 4. Then it will ask you to verify the email address. Please do this for more security.
 
-Note: Please use the below link to know more the Github profile creation
-[id]: https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account "Github Signup"
+Note: Please use the following link [Github Signup](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) to know more the Github profile creation.
+
 
 
 Github URL	https://github.com/sm3533/AWARE-AI.git
