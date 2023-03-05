@@ -1,10 +1,10 @@
-
-
-                        **A intro from ChatGPT about Github**
+**A intro from ChatGPT about Github**
 
 Github is a website where people can share and collaborate on computer code. It's like a big online library where people can store their code and work on it with others.
 Just like how people can collaborate on a document by sharing it with others and making changes, people on Github can collaborate on computer code. They can share their code with others, make changes to it, and work together to improve it. This is really useful for software developers who want to work on projects with other developers, or for people who are learning how to code and want to see how other people solve coding problems. Github is also used by companies to manage their software development projects.
 So, in short, Github is a website that helps people share and collaborate on computer code, which can be really useful for developers, learners, and companies.
+
+> Now you know why everyone is using Gihub but let's learn how to use it in your own computer.
 
 Github URL	https://github.com/sm3533/AWARE-AI.git
 
