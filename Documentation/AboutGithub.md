@@ -40,7 +40,8 @@ _Note: Please use the following link [Github Signup](https://docs.github.com/en/
 
 <img alt="Image description" src="/Images/Your_profile.png" title= "Your Profile" />
 
-> But what is a repository? In simple terms repositories are like folders in your computer. Each folder has list of files respective to the folder. We can create many such folders in our Github account and we can add many such files for each folder. All folders and files will be saved online from your computer. 
+> But what is a repository? 
+>>In simple terms repositories are like folders in your computer. Each folder has list of files respective to the folder. We can create many such folders in our Github account and we can add many such files for each folder. All folders and files will be saved online from your computer.
 
 
 
