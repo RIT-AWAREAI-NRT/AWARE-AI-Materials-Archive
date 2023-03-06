@@ -1,6 +1,6 @@
 # Github Documentation
 
-** An Intro About Github**
+**An Intro About Github**
 
 Github is a website where people can share and collaborate on computer code. It's like a big online library where people can store their code and work on it with others.
 Just like how people can collaborate on a document by sharing it with others and making changes, people on Github can collaborate on computer code. They can share their code with others, make changes to it, and work together to improve it. This is really useful for software developers who want to work on projects with other developers, or for people who are learning how to code and want to see how other people solve coding problems. Github is also used by companies to manage their software development projects.
@@ -41,9 +41,9 @@ _Note: Please use the following link [Github Signup](https://docs.github.com/en/
 <img alt="Image description" src="/Images/Your_profile.png" title= "Your Profile" />
 
 > But what is a repository? 
->>In simple terms repositories are like folders in your computer. Each folder has list of files respective to the folder. We can create many such folders in our Github account and we can add many such files for each folder. All folders and files will be saved online from your computer.
+>>In simple terms repositories are like folders in your computer. Each folder has list of files respective to the folder. We can create many such folders in our Github account and we can add many such files for each folder. All folders and files will be saved to the Github account from your computer.
 
-
+* If you click the _Settings_ option from the drop down. 
 
 Github URL	https://github.com/sm3533/AWARE-AI.git
 
