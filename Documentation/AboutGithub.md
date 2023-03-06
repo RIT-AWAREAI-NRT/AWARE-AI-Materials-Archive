@@ -1,4 +1,6 @@
-## An Intro About Github
+# Github Documentation
+
+** An Intro About Github**
 
 Github is a website where people can share and collaborate on computer code. It's like a big online library where people can store their code and work on it with others.
 Just like how people can collaborate on a document by sharing it with others and making changes, people on Github can collaborate on computer code. They can share their code with others, make changes to it, and work together to improve it. This is really useful for software developers who want to work on projects with other developers, or for people who are learning how to code and want to see how other people solve coding problems. Github is also used by companies to manage their software development projects.
@@ -33,6 +35,12 @@ _Note: Please use the following link [Github Signup](https://docs.github.com/en/
 * If you click the _Your Profile_ option it will take you to your home page. Which will show you the projects you are working on and your Github activity from the day you created the account. An image is shown below for your reference.
 
 <img alt="Image description" src="/Images/Your_profile.png" title= "Your Profile" />
+
+* If you click the _Your repositories_ option from the drop down. It will take you to list of repositories you created so far. Find the image below for your reference.
+
+<img alt="Image description" src="/Images/Your_profile.png" title= "Your Profile" />
+
+> But what is a repository? In simple terms repositories are like folders in your computer. Each folder has list of files respective to the folder. We can create many such folders in our Github account and we can add many such files for each folder. All folders and files will be saved online from your computer. 
 
 
 
