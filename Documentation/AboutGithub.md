@@ -43,7 +43,9 @@ _Note: Please use the following link [Github Signup](https://docs.github.com/en/
 > But what is a repository? 
 >>In simple terms repositories are like folders in your computer. Each folder has list of files respective to the folder. We can create many such folders in our Github account and we can add many such files for each folder. All folders and files will be saved to the Github account from your computer.
 
-* If you click the _Settings_ option from the drop down. 
+* Upon clicking the "Settings" option in the drop-down, various options will be displayed on the left side of the image below. However, not all of these options are essential, and further elaboration on this matter will be provided at a later time.
+
+<img alt="Image description" src="/Images/Settings.png" title= "Settings" />
 
 Github URL	https://github.com/sm3533/AWARE-AI.git
 
