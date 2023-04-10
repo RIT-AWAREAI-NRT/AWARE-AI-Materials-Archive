@@ -20,7 +20,7 @@ For details please contact: <awareainrt@rit.edu>
     <td>1.</td>
     <td>CHAI Seminar</td>
     <td>Designing Automatic Speech Recognition Technologies to Improve Accessibility for Deaf and Hard-of-Hearing People in Small Group Meetings</td>
-    <a href="https://github.com/sm3533/AWARE-AI/blob/main/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI%20Revised-M.Seita%5D_1022.pdf">Link</a>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/main/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI%20Revised-M.Seita%5D_1022.pdf">Link</a></td?>
   </tr>
 </table>
 
