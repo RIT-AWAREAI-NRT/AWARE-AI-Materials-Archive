@@ -13,12 +13,14 @@ For details please contact: <awareainrt@rit.edu>
   <tr>
     <th>S.No</th>
     <th>Materials Archive Folder</th>
+    <th>Date</th>
     <th>Topics</th>
     <th>Links</th>
   </tr>
   <tr>
     <td>1.</td>
     <td>CHAI Seminar</td>
+    <td>10-03-2022</td>
     <td>Designing Automatic Speech Recognition Technologies to Improve Accessibility for Deaf and Hard-of-Hearing People in Small Group Meetings</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/main/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI%20Revised-M.Seita%5D_1022.pdf">Link</a></td?>
   </tr>
