@@ -9,10 +9,12 @@ For details please contact: <awareainrt@rit.edu>
 
 ## Table of contents
 
+### CHAI Seminar
+
 <table>
   <tr>
     <th>S.No</th>
-    <th>Materials Archive Folder</th>
+    <th>Event</th>
     <th>Date</th>
     <th>Topics</th>
     <th>Links</th>
@@ -37,6 +39,34 @@ For details please contact: <awareainrt@rit.edu>
     <td>2021</td>
     <td>Annual Report Center for Human-Aware AI (CHAI)</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/752bdd7867f84223eb535f1c4295e233f98ea436/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-AnnualReport%5D_21.pdf">Link</a></td>
+  </tr>
+  <tr>
+    <td>4.</td>
+    <td>CHAI Seminar</td>
+    <td>11-07-2022</td>
+    <td>Is Human Label Variation Really So Bad for AI?</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/d59aeb50e6bc98495082bfc044318db926b53803/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-B.Plank%5D_1122.pdf">Link</a></td>
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td>CHAI Seminar</td>
+    <td>09-19-2022</td>
+    <td>Brain Inspired Computing: The Extraordinary Voyages in Known and Unknown Worlds</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/d59aeb50e6bc98495082bfc044318db926b53803/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Hai(Helen).Li%5D_0922.pdf">Link</a></td>
+  </tr>
+  <tr>
+    <td>6.</td>
+    <td>CHAI Seminar</td>
+    <td>10-17-2022</td>
+    <td>Classifying Images By Combining Self-Supervised and Continual Learning</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/d59aeb50e6bc98495082bfc044318db926b53803/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-J.Gallardo%5D_1022.pdf">Link</a></td>
+  </tr>
+  <tr>
+    <td>7.</td>
+    <td>CHAI Seminar</td>
+    <td>10-24-2022</td>
+    <td>Human-Automation Interaction: Making Brittle Technologies Useful</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/d59aeb50e6bc98495082bfc044318db926b53803/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-P.J.Smith%5D_1022.pdf">Link</a></td>
   </tr>
 </table>
 
