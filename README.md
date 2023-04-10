@@ -12,7 +12,7 @@ For details please contact: <awareainrt@rit.edu>
 <table>
   <tr>
     <th>S.No</th>
-    <th>Materials Archive Name/th>
+    <th>Materials Archive Folder</th>
     <th>Topics</th>
     <th>Links</th>
   </tr>
@@ -20,7 +20,7 @@ For details please contact: <awareainrt@rit.edu>
     <td>1.</td>
     <td>CHAI Seminar</td>
     <td>Designing Automatic Speech Recognition Technologies to Improve Accessibility for Deaf and Hard-of-Hearing People in Small Group Meetings</td>
-    <td>[Link](/workspaces/AWARE-AI/Materials Archive/CHAI Seminar/AWAREAI_[CHAI Revised-M.Seita]_1022.pdf)</td>
+    <a href="https://github.com/sm3533/AWARE-AI/blob/main/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI%20Revised-M.Seita%5D_1022.pdf">Link</a>
   </tr>
 </table>
 
