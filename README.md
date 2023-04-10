@@ -22,7 +22,14 @@ For details please contact: <awareainrt@rit.edu>
     <td>CHAI Seminar</td>
     <td>10-03-2022</td>
     <td>Designing Automatic Speech Recognition Technologies to Improve Accessibility for Deaf and Hard-of-Hearing People in Small Group Meetings</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/main/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI%20Revised-M.Seita%5D_1022.pdf">Link</a></td?>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/main/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI%20Revised-M.Seita%5D_1022.pdf">Link</a></td>
+  </tr>
+  <tr>
+    <td>2.</td>
+    <td>CHAI Seminar</td>
+    <td>09-12-2022</td>
+    <td>Natural Language Processing Methods to Interpret Political Polarization in News Media & User Responses</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/a6c0558b49d61f58fd1039e9d83ccb0f066a0eaa/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-A.Khudabukhsh%5D_0922.pdf">Link</a></td>
   </tr>
 </table>
 
