@@ -31,6 +31,13 @@ For details please contact: <awareainrt@rit.edu>
     <td>Natural Language Processing Methods to Interpret Political Polarization in News Media & User Responses</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/a6c0558b49d61f58fd1039e9d83ccb0f066a0eaa/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-A.Khudabukhsh%5D_0922.pdf">Link</a></td>
   </tr>
+  <tr>
+    <td>3.</td>
+    <td>CHAI</td>
+    <td>2021</td>
+    <td>Annual Report Center for Human-Aware AI (CHAI)</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/752bdd7867f84223eb535f1c4295e233f98ea436/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-AnnualReport%5D_21.pdf">Link</a></td>
+  </tr>
 </table>
 
 
