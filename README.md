@@ -9,14 +9,21 @@ For details please contact: <awareainrt@rit.edu>
 
 ## Table of contents
 
-|    S.No      |  **Materials Archive**|          Topics                                                |      Link        |
-|    :---:     |         :---:         |           :---:                                                |      :---:       |     
-|              |                       |Designing Automatic Speech Recognition Technologies to Improve 
-                    CHAI Seminar        Accessibility for Deaf and Hard-of-Hearing People in Small Group 
-                                        Meetings                                                        |                  |
-|      1.      |                       |                                                                |                  |
-|              |                       |                                                                |                  |                  
-|              |                       |                                                                |                  |  
+<table>
+  <tr>
+    <th>S.No</th>
+    <th>Materials Archive Name/th>
+    <th>Topics</th>
+    <th>Links</th>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td>CHAI Seminar</td>
+    <td>Designing Automatic Speech Recognition Technologies to Improve Accessibility for Deaf and Hard-of-Hearing People in Small Group Meetings</td>
+    <td>[Link](/workspaces/AWARE-AI/Materials Archive/CHAI Seminar/AWAREAI_[CHAI Revised-M.Seita]_1022.pdf)</td>
+  </tr>
+</table>
+
 
 
 AWARE-AI repository is licensed under **CC-BY-NC-SA 3.0 US**. This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.
