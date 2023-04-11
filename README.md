@@ -117,26 +117,6 @@ For details please contact: <awareainrt@rit.edu>
   </tr>
   </table>
 
-  <table>
-  <tr>
-    <th>S.No</th>
-    <th>Date</th>
-    <th>Location</th>
-    <th>Facilitator</th>
-    <th>Description</th>
-    <th>Links</th>
-  </tr>
-
-   <tr>
-    <td>1.</td>
-    <td>10-03-2022</td>
-    <td>Kate Gleason Hall</td>
-    <td>Ferat Sahin</td>
-    <td>Human-Sensing AI Hackathon</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/6d9f867f5f2100cb19d48b7696e32977717712b1/Materials%20Archive/Hackathon/AWAREAI_%5BHumanSensingAI%20by%20F.Sahin%5D_1022.PNG">Link</a></td>
-  </tr>
-  </table>
-
   ### Mentor Cafe
 
   <table>
