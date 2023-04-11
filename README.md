@@ -234,6 +234,22 @@ For details please contact: <awareainrt@rit.edu>
   </tr>
   </table>
 
+  ### Seed Funding
+  <table>
+  <tr>
+    <th>S.No</th>
+    <th>Date</th>
+    <th>Description</th>
+    <th>Links</th>
+  </tr>
+
+  <tr>
+    <td>1.</td>
+    <td>08-18-2022</td>
+    <td>2022 AWARE-AI Onboarding Bootcamp Seed Fundng Overview</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/0b33dc28e70e52a9c987642416b95832a0c23eeb/Materials%20Archive/Seed%20Funding/AWAREAI_%5BSeedFundingOverview%5D_0822.pdf">Link</a></td>
+  </tr>
+
 AWARE-AI repository is licensed under [**CC-BY-NC-SA 3.0 US**](https://creativecommons.org/licenses/by-nc-sa/3.0/). This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.
 
 [CC BY-NC-SA License](https://creativecommons.org/licenses/by-nc-sa/3.0/) <br /> 
