@@ -179,6 +179,25 @@ For details please contact: <awareainrt@rit.edu>
   </tr>
   </table>
 
+### Poster Presentation
+
+  <table>
+  <tr>
+    <th>S.No</th>
+    <th>Date</th>
+    <th>Presenters</th>
+    <th>Description</th>
+    <th>Links</th>
+  </tr>
+
+   <tr>
+    <td>1.</td>
+    <td>10-18-2022</td>
+    <td>Arianna Giguere</td>
+    <td>Multimodal modeling of driving behavior in the presence of distraction</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/37bc6fa8f211f4ca21d6fafae7d3e5546f47d3f1/Materials%20Archive/Multi-day%20Events/AWAREAI_%5BOnboardingBootcampSchedule%5D_1722.pdf">Link</a></td>
+  </tr>
+  </table>  
 AWARE-AI repository is licensed under [**CC-BY-NC-SA 3.0 US**](https://creativecommons.org/licenses/by-nc-sa/3.0/). This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.
 
 [CC BY-NC-SA License](https://creativecommons.org/licenses/by-nc-sa/3.0/) <br /> 
