@@ -197,7 +197,43 @@ For details please contact: <awareainrt@rit.edu>
     <td>Multimodal modeling of driving behavior in the presence of distraction</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/37bc6fa8f211f4ca21d6fafae7d3e5546f47d3f1/Materials%20Archive/Multi-day%20Events/AWAREAI_%5BOnboardingBootcampSchedule%5D_1722.pdf">Link</a></td>
   </tr>
-  </table>  
+  </table>
+
+### Roundtable 
+  <table>
+  <tr>
+    <th>S.No</th>
+    <th>Date</th>
+    <th>Panelists</th>
+    <th>Description</th>
+    <th>Links</th>
+  </tr>
+
+  <tr>
+    <td>1.</td>
+    <td>04-03-2023</td>
+    <td>Elena Fedorovskaya, Cory Merkel, Alexander Ororbia, Zhiqiang Tao</td>
+    <td>Brain Inspired Algorithms, Hardware, and Interfaces</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/7c2e4bc8fc7e4f4d2e0b62bcc2fb46960cb4577d/Materials%20Archive/Roundtable/AWAREAI_%5BBrain-inspired%20Algorithms,%20Hardware,%20and%20Interfaces%20panel%5D_0323.pdf">Link</a></td>
+  </tr>
+
+  <tr>
+    <td>2.</td>
+    <td>NA</td>
+    <td>Dr. Jamison Heard, Dr. Roshan Peiris, Dr. Ferat Sahin, Dr. Zhi Zheng</td>
+    <td>Human Robot/Edge Device Interaction</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/7c2e4bc8fc7e4f4d2e0b62bcc2fb46960cb4577d/Materials%20Archive/Roundtable/AWAREAI_%5BHumanRobot:EdgeDevice%20Interaction%5D_0323.pdf">Link</a></td>
+  </tr>
+
+  <tr>
+    <td>3.</td>
+    <td>NA</td>
+    <td>Jessica E. Slentz, Charles Bush, Rain Bosworth, Matthew Seita</td>
+    <td>Grant Writing Panel</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/7c2e4bc8fc7e4f4d2e0b62bcc2fb46960cb4577d/Materials%20Archive/Roundtable/AWAREAI_%5BRoundtableGrantWriting%5D_0223.pdf">Link</a></td>
+  </tr>
+  </table>
+
 AWARE-AI repository is licensed under [**CC-BY-NC-SA 3.0 US**](https://creativecommons.org/licenses/by-nc-sa/3.0/). This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.
 
 [CC BY-NC-SA License](https://creativecommons.org/licenses/by-nc-sa/3.0/) <br /> 
