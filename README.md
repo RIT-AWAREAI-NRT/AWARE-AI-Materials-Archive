@@ -70,7 +70,7 @@ For details please contact: <awareainrt@rit.edu>
     <th>S.No</th>
     <th>Date</th>
     <th>Lecturer</th>
-    <th>Course</th>
+    <th>Coursework</th>
     <th>Description</th>
     <th>Links</th>
   </tr>
@@ -93,6 +93,30 @@ For details please contact: <awareainrt@rit.edu>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/8c3d69438a9c5fe4d13ab8f77e1cb8202aa10ad7/Materials%20Archive/Coursework/AWAREAI_%5BPSYC%20719%20Handout%20Archive%5D_0822.pdf">Link</a></td>
   </tr>
   </table>
+
+
+### Hackathon
+
+<table>
+  <tr>
+    <th>S.No</th>
+    <th>Date</th>
+    <th>Location</th>
+    <th>Facilitator</th>
+    <th>Description</th>
+    <th>Links</th>
+  </tr>
+
+   <tr>
+    <td>1.</td>
+    <td>10-03-2022</td>
+    <td>Kate Gleason Hall</td>
+    <td>Ferat Sahin</td>
+    <td>Human-Sensing AI Hackathon</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/6d9f867f5f2100cb19d48b7696e32977717712b1/Materials%20Archive/Hackathon/AWAREAI_%5BHumanSensingAI%20by%20F.Sahin%5D_1022.PNG">Link</a></td>
+  </tr>
+  </table>
+
 
 
 AWARE-AI repository is licensed under **CC-BY-NC-SA 3.0 US**. This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.
