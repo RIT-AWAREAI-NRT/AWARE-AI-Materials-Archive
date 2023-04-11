@@ -250,6 +250,31 @@ For details please contact: <awareainrt@rit.edu>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/0b33dc28e70e52a9c987642416b95832a0c23eeb/Materials%20Archive/Seed%20Funding/AWAREAI_%5BSeedFundingOverview%5D_0822.pdf">Link</a></td>
   </tr>
   </table>
+
+  ### Workshops
+  <table>
+  <tr>
+    <th>S.No</th>
+    <th>Presenter</th>
+    <th>Description</th>
+    <th>Links</th>
+  </tr>
+
+  <tr>
+    <td>1.</td>
+    <td>Ammina Kothari</td>
+    <td>Storytelling Techniques to STEM Research</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/7d9aa96d9c878a3effe1d91918693aca19e255ee/Materials%20Archive/Workshops/AWAREAI_%5BSlides-Storytelling%20Techniques%20by%20A.Kothari%5D_0223%20.pdf">Link</a></td>
+  </tr>
+
+  <tr>
+    <td>2.</td>
+    <td>Irina Mikhalevich</td>
+    <td>Democracy, Justice and AI</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/7d9aa96d9c878a3effe1d91918693aca19e255ee/Materials%20Archive/Workshops/AWAREAI_%5BSlides-Democracy,%20Justice%20and%20AI%20by%20I.Mikhalevich%5D_1122.pdf">Link</a></td>
+  </tr>
+
+  </table>
 AWARE-AI repository is licensed under [**CC-BY-NC-SA 3.0 US**](https://creativecommons.org/licenses/by-nc-sa/3.0/). This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.
 
 [CC BY-NC-SA License](https://creativecommons.org/licenses/by-nc-sa/3.0/) <br /> 
