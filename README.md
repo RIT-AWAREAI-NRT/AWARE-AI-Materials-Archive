@@ -63,7 +63,36 @@ For details please contact: <awareainrt@rit.edu>
   </tr>
 </table>
 
-### 
+### Coursework
+
+<table>
+  <tr>
+    <th>S.No</th>
+    <th>Date</th>
+    <th>Lecturer</th>
+    <th>Course</th>
+    <th>Description</th>
+    <th>Links</th>
+  </tr>
+
+   <tr>
+    <td>1.</td>
+    <td>08-21-2022</td>
+    <td>Esa Rantanen</td>
+    <td>PSYC 719</td>
+    <td>Human Factors in Artificial Intelligence - Syllabus</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/8c3d69438a9c5fe4d13ab8f77e1cb8202aa10ad7/Materials%20Archive/Coursework/AWAREAI_%5BPSYC%20719%20Syllabus%5D_0822.pdf">Link</a></td>
+  </tr>
+
+  <tr>
+    <td>2.</td>
+    <td>08-23-2022</td>
+    <td>Esa Rantanen</td>
+    <td>PSYC 719</td>
+    <td>Human Factors in Artificial Intelligence - Handout Archive</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/8c3d69438a9c5fe4d13ab8f77e1cb8202aa10ad7/Materials%20Archive/Coursework/AWAREAI_%5BPSYC%20719%20Handout%20Archive%5D_0822.pdf">Link</a></td>
+  </tr>
+  </table>
 
 
 AWARE-AI repository is licensed under **CC-BY-NC-SA 3.0 US**. This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.
