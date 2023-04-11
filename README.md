@@ -117,6 +117,48 @@ For details please contact: <awareainrt@rit.edu>
   </tr>
   </table>
 
+  <table>
+  <tr>
+    <th>S.No</th>
+    <th>Date</th>
+    <th>Location</th>
+    <th>Facilitator</th>
+    <th>Description</th>
+    <th>Links</th>
+  </tr>
+
+   <tr>
+    <td>1.</td>
+    <td>10-03-2022</td>
+    <td>Kate Gleason Hall</td>
+    <td>Ferat Sahin</td>
+    <td>Human-Sensing AI Hackathon</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/6d9f867f5f2100cb19d48b7696e32977717712b1/Materials%20Archive/Hackathon/AWAREAI_%5BHumanSensingAI%20by%20F.Sahin%5D_1022.PNG">Link</a></td>
+  </tr>
+  </table>
+
+  ### Mentor Cafe
+
+  <table>
+  <tr>
+    <th>S.No</th>
+    <th>Date</th>
+    <th>Location</th>
+    <th>Mentor</th>  
+    <th>Description</th>
+    <th>Links</th>
+  </tr>
+
+   <tr>
+    <td>1.</td>
+    <td>10-12-2022</td>
+    <td>Kate Gleason Hall</td>
+    <td>PostDocs & Early Career Researchers</td>
+    <td>HAWARE-AI NRT: Fall Mentor Cafe/td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/06eae0de750f9d47bacdab2b53e9ec3b49826f6d/Materials%20Archive/Mentor%20Cafe/AWAREAI_%5BMentorCafe%5D_1022.pdf">Link</a></td>
+  </tr>
+  </table>
+
 
 
 AWARE-AI repository is licensed under **CC-BY-NC-SA 3.0 US**. This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.
