@@ -245,7 +245,7 @@ For details please contact: <awareainrt@rit.edu>
     <td>10-18-2022</td>
     <td>Arianna Giguere</td>
     <td>Multimodal modeling of driving behavior in the presence of distraction</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/37bc6fa8f211f4ca21d6fafae7d3e5546f47d3f1/Materials%20Archive/Multi-day%20Events/AWAREAI_%5BOnboardingBootcampSchedule%5D_1722.pdf">Link</a></td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/37bc6fa8f211f4ca21d6fafae7d3e5546f47d3f1/Materials%20Archive/Poster%20Presentation/AWAREAI_%5BMultimodal%20model%20of%20Driving%20Behaviour%5D_1022.pdf">Link</a></td>
   </tr>
   </table>
 
