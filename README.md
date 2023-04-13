@@ -32,6 +32,14 @@ For details please contact: <awareainrt@rit.edu>
     <th>Topics</th>
     <th>Links</th>
   </tr>
+
+ <tr>
+    <td>1.</td>
+    <td>02-28-2022</td>
+    <td>Matus Telgarsky</td>
+    <td>Approximation, Optimization, and Generalization in Deep Networks</td>
+    <td><a href="">Link</a></td>
+  </tr>
   
   <tr>
     <td>1.</td>
@@ -45,7 +53,7 @@ For details please contact: <awareainrt@rit.edu>
     <td>09-19-2022</td>
     <td>Hai (Helen) Li</td>
     <td>Brain Inspired Computing: The Extraordinary Voyages in Known and Unknown Worlds</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/4ced94698d47638d6197e10498ac6247ddc97a73/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-A.Khudabukhsh%5D_0922.pdf">Link</a></td>
+    <td><a href="">Link</a></td>
   </tr>
   <tr>
     <td>3.</td>
