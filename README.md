@@ -18,8 +18,8 @@ For details please contact: <awareainrt@rit.edu>
 7. [Multi Day Events](#multi-day-events) 
 8. [Poster Presentation](#poster-presentation)
 9. [Roundtable](#roundtable)
-10.[Seed Funding](#seed-funding)
-11.[Workshops](#workshops)
+10. [Seed Funding](#seed-funding)
+11. [Workshops](#workshops)
 
 
 ### CHAI Seminar Series
