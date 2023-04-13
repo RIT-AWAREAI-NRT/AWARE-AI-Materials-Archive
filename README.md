@@ -11,7 +11,7 @@ For details please contact: <awareainrt@rit.edu>
 
 ### Quick Links
 
-1. [CHAI Seminar Series](#CHAI Seminar Series)
+1. [CHAI Seminar Series](#chai-seminar-series)
 
 ### CHAI Seminar Series
 
