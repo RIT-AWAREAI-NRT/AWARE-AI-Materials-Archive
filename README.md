@@ -38,7 +38,7 @@ For details please contact: <awareainrt@rit.edu>
     <td>09-12-2022</td>
     <td>Ashique KhudaBukhsh</td>
     <td>Natural Language Processing Methods to Interpret Political Polarization in News Media & User Responses</td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/f9a40377d231c7a93c6f75f68ded9b277614ae7f/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-A.Khudabukhsh%5D_0922.pdf">Link</a></td>
   </tr>
   <tr>
     <td>2.</td>
