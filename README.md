@@ -181,11 +181,11 @@ For details please contact: <awareainrt@rit.edu>
 
    <tr>
     <td>1.</td>
-    <td>10-12-2022</td>
-    <td>Kate Gleason Hall</td>
-    <td>PostDocs & Early Career Researchers</td>
+    <td>NA</td>
+    <td>NA</td>
+    <td>NA</td>
     <td>AWARE-AI NRT: Fall Mentor Cafe</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/06eae0de750f9d47bacdab2b53e9ec3b49826f6d/Materials%20Archive/Mentor%20Cafe/AWAREAI_%5BMentorCafe%5D_1022.pdf">Link</a></td>
+    <td>NA</td>
   </tr>
   </table>
 
