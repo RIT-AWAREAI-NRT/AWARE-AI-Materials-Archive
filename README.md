@@ -9,7 +9,9 @@ For details please contact: <awareainrt@rit.edu>
 
 ## Table of contents
 
+### Quick Links
 
+1. [CHAI Seminar Series](###CHAI Seminar Series)
 
 ### CHAI Seminar Series
 
