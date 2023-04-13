@@ -117,6 +117,43 @@ For details please contact: <awareainrt@rit.edu>
   </tr>
   </table>
 
+### Lab Rotations
+
+<table>
+  <tr>
+    <th>S.No</th>
+    <th>Form Type</th>
+    <th>Links</th>
+  </tr>
+
+  <tr>
+    <td>1.</td>
+    <td>Faculty Host Report</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/ca265e916983279c7c8891cc21925bbf3f0321ce/Materials%20Archive/Lab%20Rotation/AWAREAI_%5BNRT%20lab%20rotation%20-%20faculty%20host%20report%20-%20Google%20Forms%5D_0223.pdf">Link</a></td>
+  </tr>
+
+  <tr>
+    <td>2.</td>
+    <td>Student Preference Report</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/ca265e916983279c7c8891cc21925bbf3f0321ce/Materials%20Archive/Lab%20Rotation/AWAREAI_%5BLab%20Rotation%20Preferences%20Form%20-%20Google%20Forms%5D_0223.pdf">Link</a></td>
+  </tr>
+  </table>
+
+### Internships
+<table>
+  <tr>
+    <th>S.No</th>
+    <th>Form Type</th>
+    <th>Links</th>
+  </tr>
+
+  <tr>
+    <td>1.</td>
+    <td>Trainee Report</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/ca265e916983279c7c8891cc21925bbf3f0321ce/Materials%20Archive/Lab%20Rotation/AWAREAI_%5BNRT%20lab%20rotation%20-%20student%20report%20-%20Google%20Forms%5D_0223.pdf">Link</a></td>
+  </tr>
+</table>
+
   ### Mentor Cafe
 
   <table>
@@ -213,24 +250,24 @@ For details please contact: <awareainrt@rit.edu>
     <td>1.</td>
     <td>04-03-2023</td>
     <td>Elena Fedorovskaya, Cory Merkel, Alexander Ororbia, Zhiqiang Tao</td>
-    <td>Brain Inspired Algorithms, Hardware, and Interfaces</td>
+    <td>Spring Roundtable - Brain Inspired Algorithms, Hardware, and Interfaces</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/7c2e4bc8fc7e4f4d2e0b62bcc2fb46960cb4577d/Materials%20Archive/Roundtable/AWAREAI_%5BBrain-inspired%20Algorithms,%20Hardware,%20and%20Interfaces%20panel%5D_0323.pdf">Link</a></td>
   </tr>
 
   <tr>
     <td>2.</td>
-    <td>NA</td>
-    <td>Dr. Jamison Heard, Dr. Roshan Peiris, Dr. Ferat Sahin, Dr. Zhi Zheng</td>
-    <td>Human Robot/Edge Device Interaction</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/7c2e4bc8fc7e4f4d2e0b62bcc2fb46960cb4577d/Materials%20Archive/Roundtable/AWAREAI_%5BHumanRobot:EdgeDevice%20Interaction%5D_0323.pdf">Link</a></td>
+    <td>03-06-2023</td>
+    <td> Jamison Heard, Roshan Peiris, Ferat Sahin, Zhi Zheng</td>
+    <td>Spring Roundtable - Human Robot Teaming and AI on the Edge</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/ca265e916983279c7c8891cc21925bbf3f0321ce/Materials%20Archive/Roundtable/AWAREAI_%5BSpring%20Roundtable%20-%20Human-Robot%20Teaming%20and%20AI%20on%20the%20Edge%20panel%5D_0323.pdf">Link</a></td>
   </tr>
 
   <tr>
     <td>3.</td>
-    <td>NA</td>
+    <td>02-06-2023</td>
     <td>Jessica E. Slentz, Charles Bush, Rain Bosworth, Matthew Seita</td>
-    <td>Grant Writing Panel</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/7c2e4bc8fc7e4f4d2e0b62bcc2fb46960cb4577d/Materials%20Archive/Roundtable/AWAREAI_%5BRoundtableGrantWriting%5D_0223.pdf">Link</a></td>
+    <td>Spring Roundtable - Grant Writing Panel</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/ca265e916983279c7c8891cc21925bbf3f0321ce/Materials%20Archive/Roundtable/AWAREAI_%5BSpring%20Roundtable%20-%20Grant%20Writing%5D_0223.pdf">Link</a></td>
   </tr>
   </table>
 
