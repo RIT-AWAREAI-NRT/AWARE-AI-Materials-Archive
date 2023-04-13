@@ -38,14 +38,14 @@ For details please contact: <awareainrt@rit.edu>
     <td>09-12-2022</td>
     <td>Ashique KhudaBukhsh</td>
     <td>Natural Language Processing Methods to Interpret Political Polarization in News Media & User Responses</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/a6c0558b49d61f58fd1039e9d83ccb0f066a0eaa/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-A.Khudabukhsh%5D_0922.pdf">Link</a></td>
+    <td><a href="">Link</a></td>
   </tr>
   <tr>
     <td>2.</td>
     <td>09-19-2022</td>
     <td>Hai (Helen) Li</td>
     <td>Brain Inspired Computing: The Extraordinary Voyages in Known and Unknown Worlds</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/d59aeb50e6bc98495082bfc044318db926b53803/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Hai(Helen).Li%5D_0922.pdf">Link</a></td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/4ced94698d47638d6197e10498ac6247ddc97a73/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-A.Khudabukhsh%5D_0922.pdf">Link</a></td>
   </tr>
   <tr>
     <td>3.</td>
