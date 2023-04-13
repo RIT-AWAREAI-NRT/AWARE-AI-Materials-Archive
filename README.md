@@ -65,7 +65,7 @@ For details please contact: <awareainrt@rit.edu>
     <td>10-17-2022</td>
     <td> Jhair Gallardo</td>
     <td>Classifying Images By Combining Self-Supervised and Continual Learning</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/d59aeb50e6bc98495082bfc044318db926b53803/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-J.Gallardo%5D_1022.pdf">Link</a></td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/c5060b482a5df10c6576c18cbc46d73c2da583ca/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-J.Gallardo%5D_102222.pdf">Link</a></td>
   </tr>
   <tr>
     <td>7.</td>
