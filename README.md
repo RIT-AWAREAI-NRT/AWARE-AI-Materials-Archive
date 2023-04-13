@@ -74,6 +74,14 @@ For details please contact: <awareainrt@rit.edu>
     <td>Human-Automation Interaction: Making Brittle Technologies Useful</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/d59aeb50e6bc98495082bfc044318db926b53803/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-P.J.Smith%5D_1022.pdf">Link</a></td>
   </tr>
+
+  <tr>
+    <td>7.</td>
+    <td>02-20-2022</td>
+    <td>Rashmi Jha,</td>
+    <td>Emerging Memory Devices and Their Applications in Neuromorphic Computing</td>
+    <td><a href="">Link</a></td>
+  </tr>
 </table>
 
 ### Coursework
