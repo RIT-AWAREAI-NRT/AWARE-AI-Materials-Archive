@@ -76,9 +76,9 @@ For details please contact: <awareainrt@rit.edu>
   </tr>
 
   <tr>
-    <td>7.</td>
+    <td>8.</td>
     <td>02-20-2022</td>
-    <td>Rashmi Jha,</td>
+    <td>Rashmi Jha</td>
     <td>Emerging Memory Devices and Their Applications in Neuromorphic Computing</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/16fae5201e42f38e367b297a9e00d73ea815cf79/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Rashmi%20Jha%5D_0223.pdf">Link</a></td>
   </tr>
