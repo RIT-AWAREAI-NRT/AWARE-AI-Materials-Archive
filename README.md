@@ -40,6 +40,14 @@ For details please contact: <awareainrt@rit.edu>
     <td>Approximation, Optimization, and Generalization in Deep Networks</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/904a5b4bf5263a9efe3ad57d060f97ca15dd8778/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Matus%20Telgarsky%5D_0222.pdf">Link</a></td>
   </tr>
+
+  <tr>
+    <td>2.</td>
+    <td>03-14-2022</td>
+    <td>Celal Savur</td>
+    <td>A Physiological Computing System to Improve Human-Robot Collaboration by using Human Comfort Index</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/700a1f8f4f99ea7492f9b7e6b8b572c74f1a60d2/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Celal_Savur%5D_0322.pdf">Link</a></td>
+  </tr>
   
   <tr>
     <td>1.</td>
