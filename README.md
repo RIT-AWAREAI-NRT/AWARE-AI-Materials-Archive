@@ -325,7 +325,7 @@ For details please contact: <awareainrt@rit.edu>
   </tr>
 </table>
 
-AWARE-AI repository is licensed under [CC BY-NC-SA License](https://creativecommons.org/licenses/by-nc-sa/3.0/). This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.
+AWARE-AI repository is licensed under [CC-BY-NC-SA 3.0 US](https://creativecommons.org/licenses/by-nc-sa/3.0/). This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.
 
-[CC BY-NC-SA License](https://creativecommons.org/licenses/by-nc-sa/3.0/) <br /> 
-[CC BY-NC-SA Details](https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode)
+[CC-BY-NC-SA 3.0 US License](https://creativecommons.org/licenses/by-nc-sa/3.0/) <br /> 
+[CC-BY-NC-SA 3.0 US Details](https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode)
