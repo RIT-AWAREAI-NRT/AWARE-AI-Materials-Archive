@@ -38,7 +38,7 @@ For details please contact: <awareainrt@rit.edu>
     <td>02-28-2022</td>
     <td>Matus Telgarsky</td>
     <td>Approximation, Optimization, and Generalization in Deep Networks</td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/904a5b4bf5263a9efe3ad57d060f97ca15dd8778/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Matus%20Telgarsky%5D_0222.pdf">Link</a></td>
   </tr>
   
   <tr>
