@@ -150,7 +150,7 @@ For details please contact: <awareainrt@rit.edu>
   <tr>
     <td>1.</td>
     <td>Trainee Report</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/ca265e916983279c7c8891cc21925bbf3f0321ce/Materials%20Archive/Lab%20Rotation/AWAREAI_%5BNRT%20lab%20rotation%20-%20student%20report%20-%20Google%20Forms%5D_0223.pdf">Link</a></td>
+    <td><a href="">Link</a></td>
   </tr>
 </table>
 
