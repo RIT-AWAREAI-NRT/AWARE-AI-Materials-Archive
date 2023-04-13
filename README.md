@@ -32,49 +32,56 @@ For details please contact: <awareainrt@rit.edu>
     <th>Topics</th>
     <th>Links</th>
   </tr>
+  
   <tr>
     <td>1.</td>
-    <td>10-03-2022</td>
-    <td>Matthew Seita</td>
-    <td>Designing Automatic Speech Recognition Technologies to Improve Accessibility for Deaf and Hard-of-Hearing People in Small Group Meetings</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/main/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI%20Revised-M.Seita%5D_1022.pdf">Link</a></td>
-  </tr>
-  <tr>
-    <td>2.</td>
     <td>09-12-2022</td>
     <td>Ashique KhudaBukhsh</td>
     <td>Natural Language Processing Methods to Interpret Political Polarization in News Media & User Responses</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/a6c0558b49d61f58fd1039e9d83ccb0f066a0eaa/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-A.Khudabukhsh%5D_0922.pdf">Link</a></td>
   </tr>
   <tr>
-    <td>4.</td>
-    <td>11-07-2022</td>
-    <td>Barbara Plank</td>
-    <td>Is Human Label Variation Really So Bad for AI?</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/d59aeb50e6bc98495082bfc044318db926b53803/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-B.Plank%5D_1122.pdf">Link</a></td>
-  </tr>
-  <tr>
-    <td>5.</td>
+    <td>2.</td>
     <td>09-19-2022</td>
     <td>Hai (Helen) Li</td>
     <td>Brain Inspired Computing: The Extraordinary Voyages in Known and Unknown Worlds</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/d59aeb50e6bc98495082bfc044318db926b53803/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Hai(Helen).Li%5D_0922.pdf">Link</a></td>
   </tr>
   <tr>
-    <td>6.</td>
+    <td>3.</td>
+    <td>10-03-2022</td>
+    <td>Matthew Seita</td>
+    <td>Designing Automatic Speech Recognition Technologies to Improve Accessibility for Deaf and Hard-of-Hearing People in Small Group Meetings</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/main/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI%20Revised-M.Seita%5D_1022.pdf">Link</a></td>
+  </tr>
+  <tr>
+    <td>4.</td>
     <td>10-17-2022</td>
-    <td> Jhair Gallardo</td>
+    <td>Jhair Gallardo</td>
     <td>Classifying Images By Combining Self-Supervised and Continual Learning</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/c5060b482a5df10c6576c18cbc46d73c2da583ca/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-J.Gallardo%5D_102222.pdf">Link</a></td>
   </tr>
   <tr>
-    <td>7.</td>
+    <td>5.</td>
     <td>10-24-2022</td>
     <td>Philip J Smith</td>
     <td>Human-Automation Interaction: Making Brittle Technologies Useful</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/d59aeb50e6bc98495082bfc044318db926b53803/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-P.J.Smith%5D_1022.pdf">Link</a></td>
   </tr>
-
+  <tr>
+    <td>6.</td>
+    <td>11-07-2022</td>
+    <td>Barbara Plank</td>
+    <td>Is Human Label Variation Really So Bad for AI?</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/d59aeb50e6bc98495082bfc044318db926b53803/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-B.Plank%5D_1122.pdf">Link</a></td>
+  </tr>
+  <tr>
+    <td>7.</td>
+    <td>02-20-2023</td>
+    <td>Rashmi Jha</td>
+    <td>Emerging Memory Devices and Their Applications in Neuromorphic Computing</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/16fae5201e42f38e367b297a9e00d73ea815cf79/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Rashmi%20Jha%5D_0223.pdf">Link</a></td>
+  </tr>
   <tr>
     <td>8.</td>
     <td>04-24-2023</td>
@@ -82,15 +89,6 @@ For details please contact: <awareainrt@rit.edu>
     <td>Multimodal Machine Learning for Understanding Human Behavioral Data</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/f698c75487583d5ddceedb48ac0dfa5158bf684f/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Ervine%20Zheng%5D_0423.pdf">Link</a></td>
   </tr>
-
-  <tr>
-    <td>9.</td>
-    <td>02-20-2022</td>
-    <td>Rashmi Jha</td>
-    <td>Emerging Memory Devices and Their Applications in Neuromorphic Computing</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/16fae5201e42f38e367b297a9e00d73ea815cf79/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Rashmi%20Jha%5D_0223.pdf">Link</a></td>
-  </tr>
-
 </table>
 
 ### Coursework
