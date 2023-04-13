@@ -122,11 +122,11 @@ For details please contact: <awareainrt@rit.edu>
 
    <tr>
     <td>1.</td>
-    <td>10-03-2022</td>
-    <td>Kate Gleason Hall</td>
+    <td>NA</td>
+    <td>NA</td>
     <td>Ferat Sahin</td>
     <td>Human-Sensing AI Hackathon</td>
-    <td><a href="">Link</a></td>
+    <td>NA</td>
   </tr>
   </table>
 
