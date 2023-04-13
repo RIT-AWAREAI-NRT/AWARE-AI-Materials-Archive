@@ -12,6 +12,17 @@ For details please contact: <awareainrt@rit.edu>
 ### Quick Links
 
 1. [CHAI Seminar Series](#chai-seminar-series)
+2. [Coursework](#coursework)
+3. [Hackathon](#hackathon)
+4. [Lab Rotations](#lab-rotations)
+5. [Internships](#internships)
+6. [Mentor Cafe](#mentor-cafe)
+7. [Mentor Cafe](#mentor-cafe)
+8. [Multi Day Events](#multi-day-events)
+9. [Poster Presentation](#poster-presentation)
+10. [Seed Funding](#seed-funding)
+11. [Workshops](#workshops)
+
 
 ### CHAI Seminar Series
 
