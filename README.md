@@ -231,7 +231,7 @@ For details please contact: <awareainrt@rit.edu>
 
 ### Poster Presentation
 
-  <table>
+<table>
   <tr>
     <th>S.No</th>
     <th>Date</th>
@@ -240,14 +240,30 @@ For details please contact: <awareainrt@rit.edu>
     <th>Links</th>
   </tr>
 
-   <tr>
+  <tr>
     <td>1.</td>
     <td>10-18-2022</td>
     <td>Arianna Giguere</td>
     <td>Multimodal modeling of driving behavior in the presence of distraction</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/37bc6fa8f211f4ca21d6fafae7d3e5546f47d3f1/Materials%20Archive/Poster%20Presentation/AWAREAI_%5BMultimodal%20model%20of%20Driving%20Behaviour%5D_1022.pdf">Link</a></td>
   </tr>
-  </table>
+
+  <tr>
+    <td>2.</td>
+    <td>NA</td>
+    <td>Cecilia Alm</td>
+    <td>NSF Research Traineeship Program</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/05848e45b78c173296e60121bd36dc0e56e8a2ba/Materials%20Archive/Poster%20Presentation/AWAREAI_%5BNSF%20Research%20Traineeship%20Program%5D_.pdf">Link</a></td>
+  </tr>
+
+  <tr>
+    <td>3.</td>
+    <td>NA</td>
+    <td>Rajesh Titung</td>
+    <td>Teaching Interactively to Learn Emotions In Natural Language</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/05848e45b78c173296e60121bd36dc0e56e8a2ba/Materials%20Archive/Poster%20Presentation/AWAREAI_%5BTeaching%20Interactively%20to%20Learn%20Emotions%20In%20Natural%20Language%5D_.pdf">Link</a></td>
+  </tr>
+</table>
 
 ### Roundtable 
   <table>
