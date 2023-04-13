@@ -302,7 +302,7 @@ For details please contact: <awareainrt@rit.edu>
   </table>
 
   ### Workshops
-  <table>
+<table>
   <tr>
     <th>S.No</th>
     <th>Presenter</th>
@@ -323,9 +323,9 @@ For details please contact: <awareainrt@rit.edu>
     <td>Democracy, Justice and AI</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/7d9aa96d9c878a3effe1d91918693aca19e255ee/Materials%20Archive/Workshops/AWAREAI_%5BSlides-Democracy,%20Justice%20and%20AI%20by%20I.Mikhalevich%5D_1122.pdf">Link</a></td>
   </tr>
+</table>
 
-  </table>
-AWARE-AI repository is licensed under [CC-BY-NC-SA 3.0 US](https://creativecommons.org/licenses/by-nc-sa/3.0/). This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.
+AWARE-AI repository is licensed under [CC BY-NC-SA License](https://creativecommons.org/licenses/by-nc-sa/3.0/). This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.
 
 [CC BY-NC-SA License](https://creativecommons.org/licenses/by-nc-sa/3.0/) <br /> 
 [CC BY-NC-SA Details](https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode)
