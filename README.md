@@ -434,6 +434,13 @@ For details please contact: <awareainrt@rit.edu>
     <td>Colloborative Research Workshop</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/d23f72bd41c480117714be3a82953c5b35d1b8e7/Materials%20Archive/Workshops/AWAREAI_%5BColloborative%20Research%20Workshop%20-%20Scott%20Franklin%5D_1022.pdf">Link</a></td>
   </tr>
+
+  <tr>
+    <td>4.</td>
+    <td>Taj Smith</td>
+    <td>Building a Foundation for Inclusive Research</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/6ae841c74fb164d2d2c46fb035091cbaab0e4231/Materials%20Archive/Workshops/AWAREAI_%5BBuilding%20A%20Foundation%20For%20Inclusive%20Research%20-%20TajSmith%5D_2022.pdf">Link</a></td>
+  </tr>
 </table>
 
 AWARE-AI repository is licensed under [CC-BY-NC-SA 3.0 US](https://creativecommons.org/licenses/by-nc-sa/3.0/). This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.
