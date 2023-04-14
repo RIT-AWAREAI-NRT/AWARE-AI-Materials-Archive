@@ -117,6 +117,14 @@ For details please contact: <awareainrt@rit.edu>
 
   <tr>
     <td>7.</td>
+    <td>03-27-2023</td>
+    <td>Zhiqiang Tao,</td>
+    <td>Learning with Hypergradients</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/9379494c03bb582c50094a66db370043568b6162/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Zhiqiang%20Tao%5D_0323.pdf">Link</a></td>
+  </tr>
+
+  <tr>
+    <td>7.</td>
     <td>04-10-2023</td>
     <td>Jinjun Xiong</td>
     <td>The human-side of AI: Envision how AI can help children with speech and language service needs</td>
