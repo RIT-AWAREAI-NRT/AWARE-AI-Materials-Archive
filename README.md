@@ -62,7 +62,7 @@ For details please contact: <awareainrt@rit.edu>
     <td>04-25-2022</td>
     <td>Jason Corso</td>
     <td>Me, AI; You, Human---Advances in Human-AI Cooperation</td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/365b1ae8b37a6bb7921424ee4f7704783905e29c/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Jason_Corso%5D_0422.pdf">Link</a></td>
   </tr>
   
   <tr>
