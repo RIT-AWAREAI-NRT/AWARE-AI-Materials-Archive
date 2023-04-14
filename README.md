@@ -112,7 +112,7 @@ For details please contact: <awareainrt@rit.edu>
     <td>02-27-2023</td>
     <td>Hitesh Sapkota</td>
     <td>Adaptive Robust Evidential Optimization for Open Set Detection from Imbalanced Data</td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/38ae0fbeecae0a5043686a3a184f0cb85db8ea47/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Hitesh%20Sapkota%5D_0223.pdf">Link</a></td>
   </tr>
 
   <tr>
