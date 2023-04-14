@@ -120,7 +120,7 @@ For details please contact: <awareainrt@rit.edu>
     <td>04-17-2023</td>
     <td>Mark H. Chignell</td>
     <td>Interactive Machine Learning: Building Effective and Ergonomic Human-AI Interaction</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/f698c75487583d5ddceedb48ac0dfa5158bf684f/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Ervine%20Zheng%5D_0423.pdf">Link</a></td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/0fb1c736d738ae9551cdf928edcc269624e6a3c6/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Mark%20H%20Chignell%5D_0423.pdf">Link</a></td>
   </tr>
 
   <tr>
