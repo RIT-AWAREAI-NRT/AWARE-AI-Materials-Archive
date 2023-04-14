@@ -85,7 +85,7 @@ For details please contact: <awareainrt@rit.edu>
     <td>09-19-2022</td>
     <td>Hai (Helen) Li</td>
     <td>Brain Inspired Computing: The Extraordinary Voyages in Known and Unknown Worlds</td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/d5f699267d39499fd56769faddd2f815c00206db/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Hai%20(Helen)%20Li%5D_0922.pdf">Link</a></td>
   </tr>
   <tr>
     <td>5.</td>
