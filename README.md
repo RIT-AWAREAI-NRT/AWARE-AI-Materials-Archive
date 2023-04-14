@@ -56,6 +56,14 @@ For details please contact: <awareainrt@rit.edu>
     <td>On Telepresence, Telerobotics and Autonomy</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/73888b41e0a1e68553887e8f24fc829be42a50e6/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Adrian%20Stoica%5D_0322.pdf">Link</a></td>
   </tr>
+
+  <tr>
+    <td>2.</td>
+    <td>04-25-2022</td>
+    <td>Jason Corso</td>
+    <td>Me, AI; You, Human---Advances in Human-AI Cooperation</td>
+    <td><a href="">Link</a></td>
+  </tr>
   
   <tr>
     <td>3.</td>
@@ -118,7 +126,7 @@ For details please contact: <awareainrt@rit.edu>
   <tr>
     <td>7.</td>
     <td>03-27-2023</td>
-    <td>Zhiqiang Tao,</td>
+    <td>Zhiqiang Tao</td>
     <td>Learning with Hypergradients</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/9379494c03bb582c50094a66db370043568b6162/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Zhiqiang%20Tao%5D_0323.pdf">Link</a></td>
   </tr>
