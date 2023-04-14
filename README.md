@@ -112,7 +112,7 @@ For details please contact: <awareainrt@rit.edu>
     <td>04-10-2023</td>
     <td>Jinjun Xiong</td>
     <td>The human-side of AI: Envision how AI can help children with speech and language service needs</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/16fae5201e42f38e367b297a9e00d73ea815cf79/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Rashmi%20Jha%5D_0223.pdf">Link</a></td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/cb32c52184deb295b13642f9a932e423d34e41a3/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI_JinjunXiong%5D_0423.pdf">Link</a></td>
   </tr>
 
   <tr>
