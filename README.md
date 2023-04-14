@@ -48,6 +48,14 @@ For details please contact: <awareainrt@rit.edu>
     <td>A Physiological Computing System to Improve Human-Robot Collaboration by using Human Comfort Index</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/700a1f8f4f99ea7492f9b7e6b8b572c74f1a60d2/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Celal_Savur%5D_0322.pdf">Link</a></td>
   </tr>
+
+  <tr>
+    <td>2.</td>
+    <td>03-21-2022</td>
+    <td>Adrian Stoica</td>
+    <td>On Telepresence, Telerobotics and Autonomy</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/73888b41e0a1e68553887e8f24fc829be42a50e6/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Adrian%20Stoica%5D_0322.pdf">Link</a></td>
+  </tr>
   
   <tr>
     <td>3.</td>
@@ -98,6 +106,15 @@ For details please contact: <awareainrt@rit.edu>
     <td>Emerging Memory Devices and Their Applications in Neuromorphic Computing</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/16fae5201e42f38e367b297a9e00d73ea815cf79/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Rashmi%20Jha%5D_0223.pdf">Link</a></td>
   </tr>
+
+  <tr>
+    <td>7.</td>
+    <td>04-10-2023</td>
+    <td>Jinjun Xiong</td>
+    <td>The human-side of AI: Envision how AI can help children with speech and language service needs</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/16fae5201e42f38e367b297a9e00d73ea815cf79/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Rashmi%20Jha%5D_0223.pdf">Link</a></td>
+  </tr>
+
   <tr>
     <td>8.</td>
     <td>04-24-2023</td>
