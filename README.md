@@ -33,6 +33,14 @@ For details please contact: <awareainrt@rit.edu>
     <th>Links</th>
   </tr>
 
+  <tr>
+    <td>1.</td>
+    <td>02-23-2022</td>
+    <td>Yulia Tsvetkov</td>
+    <td>Towards Language Generation We Can Trust</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/990997616b4e86af1c690766e6b172533dea2758/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-YuliaTsvetkov%5D_0222.pdf">Link</a></td>
+  </tr>
+
  <tr>
     <td>1.</td>
     <td>02-28-2022</td>
