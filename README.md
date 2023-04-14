@@ -42,7 +42,7 @@ For details please contact: <awareainrt@rit.edu>
   </tr>
 
  <tr>
-    <td>1.</td>
+    <td>2.</td>
     <td>02-28-2022</td>
     <td>Matus Telgarsky</td>
     <td>Approximation, Optimization, and Generalization in Deep Networks</td>
@@ -50,7 +50,7 @@ For details please contact: <awareainrt@rit.edu>
   </tr>
 
   <tr>
-    <td>2.</td>
+    <td>3.</td>
     <td>03-14-2022</td>
     <td>Celal Savur</td>
     <td>A Physiological Computing System to Improve Human-Robot Collaboration by using Human Comfort Index</td>
@@ -58,7 +58,7 @@ For details please contact: <awareainrt@rit.edu>
   </tr>
 
   <tr>
-    <td>2.</td>
+    <td>4.</td>
     <td>03-21-2022</td>
     <td>Adrian Stoica</td>
     <td>On Telepresence, Telerobotics and Autonomy</td>
@@ -66,7 +66,7 @@ For details please contact: <awareainrt@rit.edu>
   </tr>
 
   <tr>
-    <td>2.</td>
+    <td>5.</td>
     <td>04-25-2022</td>
     <td>Jason Corso</td>
     <td>Me, AI; You, Human---Advances in Human-AI Cooperation</td>
@@ -74,49 +74,49 @@ For details please contact: <awareainrt@rit.edu>
   </tr>
   
   <tr>
-    <td>3.</td>
+    <td>6.</td>
     <td>09-12-2022</td>
     <td>Ashique KhudaBukhsh</td>
     <td>Natural Language Processing Methods to Interpret Political Polarization in News Media & User Responses</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/f9a40377d231c7a93c6f75f68ded9b277614ae7f/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-A.Khudabukhsh%5D_0922.pdf">Link</a></td>
   </tr>
   <tr>
-    <td>4.</td>
+    <td>7.</td>
     <td>09-19-2022</td>
     <td>Hai (Helen) Li</td>
     <td>Brain Inspired Computing: The Extraordinary Voyages in Known and Unknown Worlds</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/d5f699267d39499fd56769faddd2f815c00206db/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Hai%20(Helen)%20Li%5D_0922.pdf">Link</a></td>
   </tr>
   <tr>
-    <td>5.</td>
+    <td>8.</td>
     <td>10-03-2022</td>
     <td>Matthew Seita</td>
     <td>Designing Automatic Speech Recognition Technologies to Improve Accessibility for Deaf and Hard-of-Hearing People in Small Group Meetings</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/main/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI%20Revised-M.Seita%5D_1022.pdf">Link</a></td>
   </tr>
   <tr>
-    <td>4.</td>
+    <td>9.</td>
     <td>10-17-2022</td>
     <td>Jhair Gallardo</td>
     <td>Classifying Images By Combining Self-Supervised and Continual Learning</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/c5060b482a5df10c6576c18cbc46d73c2da583ca/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-J.Gallardo%5D_102222.pdf">Link</a></td>
   </tr>
   <tr>
-    <td>5.</td>
+    <td>10.</td>
     <td>10-24-2022</td>
     <td>Philip J Smith</td>
     <td>Human-Automation Interaction: Making Brittle Technologies Useful</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/7418225b5a2bac7a02238eb89971eb8005608102/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-P.J.Smith%5D_1022.pdf">Link</a></td>
   </tr>
   <tr>
-    <td>6.</td>
+    <td>11.</td>
     <td>11-07-2022</td>
     <td>Barbara Plank</td>
     <td>Is Human Label Variation Really So Bad for AI?</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/d59aeb50e6bc98495082bfc044318db926b53803/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-B.Plank%5D_1122.pdf">Link</a></td>
   </tr>
   <tr>
-    <td>7.</td>
+    <td>12.</td>
     <td>02-20-2023</td>
     <td>Rashmi Jha</td>
     <td>Emerging Memory Devices and Their Applications in Neuromorphic Computing</td>
@@ -124,7 +124,7 @@ For details please contact: <awareainrt@rit.edu>
   </tr>
 
   <tr>
-    <td>7.</td>
+    <td>13.</td>
     <td>02-27-2023</td>
     <td>Hitesh Sapkota</td>
     <td>Adaptive Robust Evidential Optimization for Open Set Detection from Imbalanced Data</td>
@@ -132,7 +132,7 @@ For details please contact: <awareainrt@rit.edu>
   </tr>
 
   <tr>
-    <td>7.</td>
+    <td>14.</td>
     <td>03-27-2023</td>
     <td>Zhiqiang Tao</td>
     <td>Learning with Hypergradients</td>
@@ -140,7 +140,7 @@ For details please contact: <awareainrt@rit.edu>
   </tr>
 
   <tr>
-    <td>7.</td>
+    <td>15.</td>
     <td>04-10-2023</td>
     <td>Jinjun Xiong</td>
     <td>The human-side of AI: Envision how AI can help children with speech and language service needs</td>
@@ -148,7 +148,7 @@ For details please contact: <awareainrt@rit.edu>
   </tr>
 
   <tr>
-    <td>8.</td>
+    <td>16.</td>
     <td>04-17-2023</td>
     <td>Mark H. Chignell</td>
     <td>Interactive Machine Learning: Building Effective and Ergonomic Human-AI Interaction</td>
@@ -156,7 +156,7 @@ For details please contact: <awareainrt@rit.edu>
   </tr>
 
   <tr>
-    <td>8.</td>
+    <td>17.</td>
     <td>04-24-2023</td>
     <td>Ervine Zheng</td>
     <td>Multimodal Machine Learning for Understanding Human Behavioral Data</td>
