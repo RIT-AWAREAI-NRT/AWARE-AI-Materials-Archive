@@ -109,6 +109,14 @@ For details please contact: <awareainrt@rit.edu>
 
   <tr>
     <td>7.</td>
+    <td>02-27-2023</td>
+    <td>Hitesh Sapkota</td>
+    <td>Adaptive Robust Evidential Optimization for Open Set Detection from Imbalanced Data</td>
+    <td><a href="">Link</a></td>
+  </tr>
+
+  <tr>
+    <td>7.</td>
     <td>04-10-2023</td>
     <td>Jinjun Xiong</td>
     <td>The human-side of AI: Envision how AI can help children with speech and language service needs</td>
