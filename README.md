@@ -117,6 +117,14 @@ For details please contact: <awareainrt@rit.edu>
 
   <tr>
     <td>8.</td>
+    <td>04-17-2023</td>
+    <td>Mark H. Chignell</td>
+    <td>Interactive Machine Learning: Building Effective and Ergonomic Human-AI Interaction</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/f698c75487583d5ddceedb48ac0dfa5158bf684f/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Ervine%20Zheng%5D_0423.pdf">Link</a></td>
+  </tr>
+
+  <tr>
+    <td>8.</td>
     <td>04-24-2023</td>
     <td>Ervine Zheng</td>
     <td>Multimodal Machine Learning for Understanding Human Behavioral Data</td>
