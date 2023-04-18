@@ -301,37 +301,37 @@ For details please contact: <awareainrt@rit.edu>
   <tr>
     <td>3.</td>
     <td>2023 Academy-Industry collaboration - T Pederson, M Gupta</td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/e1597568ffa1caabe2a997280295d6b9beb62913/Materials%20Archive/Multi-day%20Events/AWAREAI_%5B2023%20Academy-Industry%20collaboration%20-%20T%20Pederson,%20M%20Gupta%5D_0123.pdf">Link</a></td>
   </tr>
 
   <tr>
     <td>4.</td>
     <td>2023 Doing an International Academic Career - T Pederson, M Gupta</td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/e1597568ffa1caabe2a997280295d6b9beb62913/Materials%20Archive/Multi-day%20Events/AWAREAI_%5B2023%20Doing%20an%20International%20Academic%20Career%20-%20T%20Pederson,%20M%20Gupta%5D_0123.pdf">Link</a></td>
   </tr>
 
   <tr>
     <td>5.</td>
     <td>2023 Reinforcement Learning Foundation Slides - J Heard</td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/e1597568ffa1caabe2a997280295d6b9beb62913/Materials%20Archive/Multi-day%20Events/AWAREAI_%5B2023%20Reinforcement%20Learning%20Foundation%20Slides%20-%20J%20Heard%5D_0123pdf.pdf">Link</a></td>
   </tr>
 
   <tr>
     <td>6.</td>
     <td>2023 Winter Retreat Schedule</td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/e1597568ffa1caabe2a997280295d6b9beb62913/Materials%20Archive/Multi-day%20Events/AWAREAI_%5B2023%20Winter%20Retreat%20Schedule%5D_0123.pdf">Link</a></td>
   </tr>
 
   <tr>
     <td>7.</td>
     <td>2023 Winter Retreat Trainee Research Program</td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/e1597568ffa1caabe2a997280295d6b9beb62913/Materials%20Archive/Multi-day%20Events/AWAREAI_%5B2023%20Winter%20Retreat%20Trainee%20Research%20Program%5D_0123.pdf">Link</a></td>
   </tr>
 
   <tr>
     <td>8.</td>
     <td>Experience Sampling Method - G.W Tigwell</td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/e1597568ffa1caabe2a997280295d6b9beb62913/Materials%20Archive/Multi-day%20Events/AWAREAI_%5BExperience%20Sampling%20Method%20-%20G.W%20Tigwell%5D_.pdf">Link</a></td>
   </tr>
   </table>
 
