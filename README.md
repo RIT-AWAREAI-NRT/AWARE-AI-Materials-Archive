@@ -282,38 +282,56 @@ For details please contact: <awareainrt@rit.edu>
   <table>
   <tr>
     <th>S.No</th>
-    <th>From</th>
-    <th>To</th>
-    <th>Location</th> 
     <th>Description</th>
     <th>Links</th>
   </tr>
 
    <tr>
     <td>1.</td>
-    <td>08-17-2022</td>
-    <td>08-19-2022</td>
-    <td>GCI 70-2780</td>
-    <td>2022 AWARE-AI Onboarding Bootcamp Schedule</td>
+    <td>2022 Onboarding Bootcamp Schedule</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/37bc6fa8f211f4ca21d6fafae7d3e5546f47d3f1/Materials%20Archive/Multi-day%20Events/AWAREAI_%5BOnboardingBootcampSchedule%5D_1722.pdf">Link</a></td>
   </tr>
 
-  <tr>
+   <tr>
     <td>2.</td>
-    <td>01-17-2023</td>
-    <td>01-20-2023</td>
-    <td>CYB 1710-30</td>
-    <td>2023 AWARE-AI Winter Retreat Schedule</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/37bc6fa8f211f4ca21d6fafae7d3e5546f47d3f1/Materials%20Archive/Multi-day%20Events/AWAREAI_%5BWinterRetreatSchedule%5D_0123.pdf">Link</a></td>
+    <td>2022 AWARE-AI Spring Retreat Schedule</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/37bc6fa8f211f4ca21d6fafae7d3e5546f47d3f1/Materials%20Archive/Multi-day%20Events/AWAREAI_%5BRetreatSchedule%5D_0322.pdf">Link</a></td>
   </tr>
 
   <tr>
     <td>3.</td>
-    <td>03-23-2023</td>
-    <td>04-24-2023</td>
-    <td>070 GCI-1710</td>
-    <td>2023 AWARE-AI Spring Retreat Schedule</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/37bc6fa8f211f4ca21d6fafae7d3e5546f47d3f1/Materials%20Archive/Multi-day%20Events/AWAREAI_%5BRetreatSchedule%5D_0322.pdf">Link</a></td>
+    <td>2023 Academy-Industry collaboration - T Pederson, M Gupta</td>
+    <td><a href="">Link</a></td>
+  </tr>
+
+  <tr>
+    <td>4.</td>
+    <td>2023 Doing an International Academic Career - T Pederson, M Gupta</td>
+    <td><a href="">Link</a></td>
+  </tr>
+
+  <tr>
+    <td>5.</td>
+    <td>2023 Reinforcement Learning Foundation Slides - J Heard</td>
+    <td><a href="">Link</a></td>
+  </tr>
+
+  <tr>
+    <td>6.</td>
+    <td>2023 Winter Retreat Schedule</td>
+    <td><a href="">Link</a></td>
+  </tr>
+
+  <tr>
+    <td>7.</td>
+    <td>2023 Winter Retreat Trainee Research Program</td>
+    <td><a href="">Link</a></td>
+  </tr>
+
+  <tr>
+    <td>8.</td>
+    <td>Experience Sampling Method - G.W Tigwell</td>
+    <td><a href="">Link</a></td>
   </tr>
   </table>
 
