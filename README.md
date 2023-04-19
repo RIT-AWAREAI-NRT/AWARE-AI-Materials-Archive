@@ -5,6 +5,8 @@ Program website:  [AWARE-AI NRT](https://www.rit.edu/nrtai/) <br />
 
 For details please contact: <awareainrt@rit.edu>
 
+Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1oroinBaEkBFr6Q
+
 ## Table of contents
 
 ### Quick Links
