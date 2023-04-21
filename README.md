@@ -115,7 +115,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>11-07-2022</td>
     <td>Barbara Plank</td>
     <td>Is Human Label Variation Really So Bad for AI?</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/d59aeb50e6bc98495082bfc044318db926b53803/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-B.Plank%5D_1122.pdf">Link</a></td>
+    <td><a href="https://github.com/RIT-AWAREAI-NRT/AWARE-AI/blob/ac752c7b6e5681d86017af682e85c80298fb6fc4/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-B.Plank%5D_1122.pdf">Link</a></td>
   </tr>
   <tr>
     <td>12.</td>
@@ -460,6 +460,13 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>Taj Smith</td>
     <td>Building a Foundation for Inclusive Research</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/6ae841c74fb164d2d2c46fb035091cbaab0e4231/Materials%20Archive/Workshops/AWAREAI_%5BBuilding%20A%20Foundation%20For%20Inclusive%20Research%20-%20TajSmith%5D_2022.pdf">Link</a></td>
+  </tr>
+
+   <tr>
+    <td>5.</td>
+    <td>Irina Mikhalevich</td>
+    <td>Responsibility & AI</td>
+    <td><a href="https://github.com/RIT-AWAREAI-NRT/AWARE-AI/blob/ac752c7b6e5681d86017af682e85c80298fb6fc4/Materials%20Archive/Workshops/AWAREAI_%5BResponsibility%20&%20AI%20-%20I.Mikhalevich%5D_0123.pdf">Link</a></td>
   </tr>
 </table>
 
