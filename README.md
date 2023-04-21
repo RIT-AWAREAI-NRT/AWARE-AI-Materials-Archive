@@ -240,6 +240,13 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>Student Preference Report</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/ca265e916983279c7c8891cc21925bbf3f0321ce/Materials%20Archive/Lab%20Rotation/AWAREAI_%5BLab%20Rotation%20Preferences%20Form%20-%20Google%20Forms%5D_0223.pdf">Link</a></td>
   </tr>
+
+  <tr>
+    <td>3.</td>
+    <td>Trainee Report</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/8c20d1a4a700e27e7667ef56066efa1b488d93eb/Materials%20Archive/Internships/AWAREAI_%5BNRT%20lab%20Rotation%20Trainee%20Report%20-%20Google%20Form%5D_0223.pdf">Link</a></td>
+  </tr>
+
   </table>
 
 ### Internships
@@ -248,12 +255,6 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <th>S.No</th>
     <th>Form Type</th>
     <th>Links</th>
-  </tr>
-
-  <tr>
-    <td>1.</td>
-    <td>Trainee Report</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/8c20d1a4a700e27e7667ef56066efa1b488d93eb/Materials%20Archive/Internships/AWAREAI_%5BNRT%20lab%20Rotation%20Trainee%20Report%20-%20Google%20Form%5D_0223.pdf">Link</a></td>
   </tr>
 </table>
 
