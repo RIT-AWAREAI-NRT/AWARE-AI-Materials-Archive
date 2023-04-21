@@ -314,13 +314,13 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
 
   <tr>
     <td>5.</td>
-    <td>2023 Reinforcement Learning Foundation Slides - J Heard</td>
+    <td>2023 Tutorial: Reinforcement Learning Foundation Slides - J Heard</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/e1597568ffa1caabe2a997280295d6b9beb62913/Materials%20Archive/Multi-day%20Events/AWAREAI_%5B2023%20Reinforcement%20Learning%20Foundation%20Slides%20-%20J%20Heard%5D_0123pdf.pdf">Link</a></td>
   </tr>
 
   <tr>
     <td>6.</td>
-    <td>2023 Winter Retreat Schedule</td>
+    <td>2023 Winter Retreat Keynote Talks</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/e1597568ffa1caabe2a997280295d6b9beb62913/Materials%20Archive/Multi-day%20Events/AWAREAI_%5B2023%20Winter%20Retreat%20Schedule%5D_0123.pdf">Link</a></td>
   </tr>
 
@@ -332,7 +332,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
 
   <tr>
     <td>8.</td>
-    <td>Experience Sampling Method - G.W Tigwell</td>
+    <td>2023 Tutorial: Experience Sampling Method - G. Tigwell</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/e1597568ffa1caabe2a997280295d6b9beb62913/Materials%20Archive/Multi-day%20Events/AWAREAI_%5BExperience%20Sampling%20Method%20-%20G.W%20Tigwell%5D_.pdf">Link</a></td>
   </tr>
   </table>
@@ -343,7 +343,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   <tr>
     <th>S.No</th>
     <th>Date</th>
-    <th>Presenters</th>
+    <th>Authors</th>
     <th>Description</th>
     <th>Links</th>
   </tr>
@@ -351,7 +351,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   <tr>
     <td>1.</td>
     <td>10-18-2022</td>
-    <td>Arianna Giguere</td>
+    <td>Arianna et al.</td>
     <td>Multimodal modeling of driving behavior in the presence of distraction</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/37bc6fa8f211f4ca21d6fafae7d3e5546f47d3f1/Materials%20Archive/Poster%20Presentation/AWAREAI_%5BMultimodal%20model%20of%20Driving%20Behaviour%5D_1022.pdf">Link</a></td>
   </tr>
@@ -359,7 +359,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   <tr>
     <td>2.</td>
     <td>NA</td>
-    <td>Cecilia Alm</td>
+    <td>Cecilia et al.</td>
     <td>NSF Research Traineeship Program</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/05848e45b78c173296e60121bd36dc0e56e8a2ba/Materials%20Archive/Poster%20Presentation/AWAREAI_%5BNSF%20Research%20Traineeship%20Program%5D_.pdf">Link</a></td>
   </tr>
@@ -367,7 +367,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   <tr>
     <td>3.</td>
     <td>NA</td>
-    <td>Rajesh Titung</td>
+    <td>Rajesh Titung and Cecilia Alm</td>
     <td>Teaching Interactively to Learn Emotions In Natural Language</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/05848e45b78c173296e60121bd36dc0e56e8a2ba/Materials%20Archive/Poster%20Presentation/AWAREAI_%5BTeaching%20Interactively%20to%20Learn%20Emotions%20In%20Natural%20Language%5D_.pdf">Link</a></td>
   </tr>
@@ -420,7 +420,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   <tr>
     <td>1.</td>
     <td>08-18-2022</td>
-    <td>2022 AWARE-AI Onboarding Bootcamp Seed Fundng Overview</td>
+    <td>2022 AWARE-AI Onboarding Bootcamp Seed Funding Overview</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/0b33dc28e70e52a9c987642416b95832a0c23eeb/Materials%20Archive/Seed%20Funding/AWAREAI_%5BSeedFundingOverview%5D_0822.pdf">Link</a></td>
   </tr>
   </table>
