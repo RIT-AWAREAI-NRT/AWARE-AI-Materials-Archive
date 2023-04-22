@@ -39,7 +39,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>1.</td>
     <td>02-23-2022</td>
     <td>Yulia Tsvetkov</td>
-    <td>Towards Language Generation We Can Trust</td>
+    <td>Towards Language Generation we can Trust</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/990997616b4e86af1c690766e6b172533dea2758/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-YuliaTsvetkov%5D_0222.pdf">Link</a></td>
   </tr>
 
@@ -55,7 +55,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>3.</td>
     <td>03-14-2022</td>
     <td>Celal Savur</td>
-    <td>A Physiological Computing System to Improve Human-Robot Collaboration by using Human Comfort Index</td>
+    <td>A Physiological Computing System to Improve Human-Robot Collaboration by Using Human Comfort Index</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/700a1f8f4f99ea7492f9b7e6b8b572c74f1a60d2/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Celal_Savur%5D_0322.pdf">Link</a></td>
   </tr>
 
@@ -79,14 +79,14 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>6.</td>
     <td>09-12-2022</td>
     <td>Ashique KhudaBukhsh</td>
-    <td>Natural Language Processing Methods to Interpret Political Polarization in News Media & User Responses</td>
+    <td>Natural Language Processing Methods to Interpret Political Polarization in News Media and User Responses</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/f9a40377d231c7a93c6f75f68ded9b277614ae7f/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-A.Khudabukhsh%5D_0922.pdf">Link</a></td>
   </tr>
   <tr>
     <td>7.</td>
     <td>09-19-2022</td>
     <td>Hai (Helen) Li</td>
-    <td>Brain Inspired Computing: The Extraordinary Voyages in Known and Unknown Worlds</td>
+    <td>Brain-inspired Computing: The Extraordinary Voyages in Known and Unknown Worlds</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/d5f699267d39499fd56769faddd2f815c00206db/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Hai%20(Helen)%20Li%5D_0922.pdf">Link</a></td>
   </tr>
   <tr>
@@ -114,7 +114,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>11.</td>
     <td>11-07-2022</td>
     <td>Barbara Plank</td>
-    <td>Is Human Label Variation Really So Bad for AI?</td>
+    <td>Is Human Label Variation Really so Bad for AI?</td>
     <td><a href="https://github.com/RIT-AWAREAI-NRT/AWARE-AI/blob/ac752c7b6e5681d86017af682e85c80298fb6fc4/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-B.Plank%5D_1122.pdf">Link</a></td>
   </tr>
   <tr>
@@ -145,7 +145,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>15.</td>
     <td>04-10-2023</td>
     <td>Jinjun Xiong</td>
-    <td>The human-side of AI: Envision how AI can help children with speech and language service needs</td>
+    <td>The Human Side of AI: Envision how AI can Help Children with Speech and Language Service Needs</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/cb32c52184deb295b13642f9a932e423d34e41a3/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI_JinjunXiong%5D_0423.pdf">Link</a></td>
   </tr>
 
