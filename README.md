@@ -17,9 +17,9 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
 4. [Lab Rotations](#lab-rotations)
 5. [Internships](#internships)
 6. [Mentor Cafe](#mentor-cafe)
-7. [Multi Day Events](#multi-day-events) 
+7. [Multi-day Events](#multi-day-events) 
 8. [Poster Presentation](#poster-presentation)
-9. [Roundtable](#roundtable)
+9. [Roundtables on Advanced Topics](#roundtable)
 10. [Seed Funding](#seed-funding)
 11. [Workshops](#workshops)
 
@@ -280,7 +280,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   </tr>
   </table>
 
-### Multi-Day Events
+### Multi-day Events
 
   <table>
   <tr>
@@ -374,7 +374,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   </tr>
 </table>
 
-### Roundtable 
+### Roundtables on Advanced Topics 
   <table>
   <tr>
     <th>S.No</th>
