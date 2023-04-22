@@ -352,7 +352,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   <tr>
     <td>1.</td>
     <td>10-18-2022</td>
-    <td>Arianna et al.</td>
+    <td>Arianna Giguere, et al.</td>
     <td>Multimodal modeling of driving behavior in the presence of distraction</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/37bc6fa8f211f4ca21d6fafae7d3e5546f47d3f1/Materials%20Archive/Poster%20Presentation/AWAREAI_%5BMultimodal%20model%20of%20Driving%20Behaviour%5D_1022.pdf">Link</a></td>
   </tr>
@@ -360,7 +360,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   <tr>
     <td>2.</td>
     <td>NA</td>
-    <td>Cecilia et al.</td>
+    <td>Cecilia Alm, et al.</td>
     <td>NSF Research Traineeship Program</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/05848e45b78c173296e60121bd36dc0e56e8a2ba/Materials%20Archive/Poster%20Presentation/AWAREAI_%5BNSF%20Research%20Traineeship%20Program%5D_.pdf">Link</a></td>
   </tr>
