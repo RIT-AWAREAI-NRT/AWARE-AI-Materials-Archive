@@ -1,5 +1,5 @@
 # [AWARE-AI](https://www.rit.edu/nrtai/)
-This repository belongs to the AWARE-AI (NRT) community at RIT. This repository contains links to select AWARE-AI program component materials.
+This repository belongs to the AWARE-AI community at RIT abd contains links to select AWARE-AI program materials.
 
 Program website:  [AWARE-AI NRT](https://www.rit.edu/nrtai/) <br />
 
@@ -17,9 +17,9 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
 4. [Lab Rotations](#lab-rotations)
 5. [Internships](#internships)
 6. [Mentor Cafe](#mentor-cafe)
-7. [Multi Day Events](#multi-day-events) 
+7. [Multi-day Events](#multi-day-events) 
 8. [Poster Presentation](#poster-presentation)
-9. [Roundtable](#roundtable)
+9. [Roundtables on Advanced Topics](#roundtable)
 10. [Seed Funding](#seed-funding)
 11. [Workshops](#workshops)
 
@@ -39,7 +39,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>1.</td>
     <td>02-23-2022</td>
     <td>Yulia Tsvetkov</td>
-    <td>Towards Language Generation We Can Trust</td>
+    <td>Towards Language Generation we can Trust</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/990997616b4e86af1c690766e6b172533dea2758/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-YuliaTsvetkov%5D_0222.pdf">Link</a></td>
   </tr>
 
@@ -55,7 +55,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>3.</td>
     <td>03-14-2022</td>
     <td>Celal Savur</td>
-    <td>A Physiological Computing System to Improve Human-Robot Collaboration by using Human Comfort Index</td>
+    <td>A Physiological Computing System to Improve Human-Robot Collaboration by Using Human Comfort Index</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/700a1f8f4f99ea7492f9b7e6b8b572c74f1a60d2/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Celal_Savur%5D_0322.pdf">Link</a></td>
   </tr>
 
@@ -79,14 +79,14 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>6.</td>
     <td>09-12-2022</td>
     <td>Ashique KhudaBukhsh</td>
-    <td>Natural Language Processing Methods to Interpret Political Polarization in News Media & User Responses</td>
+    <td>Natural Language Processing Methods to Interpret Political Polarization in News Media and User Responses</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/f9a40377d231c7a93c6f75f68ded9b277614ae7f/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-A.Khudabukhsh%5D_0922.pdf">Link</a></td>
   </tr>
   <tr>
     <td>7.</td>
     <td>09-19-2022</td>
     <td>Hai (Helen) Li</td>
-    <td>Brain Inspired Computing: The Extraordinary Voyages in Known and Unknown Worlds</td>
+    <td>Brain-inspired Computing: The Extraordinary Voyages in Known and Unknown Worlds</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/d5f699267d39499fd56769faddd2f815c00206db/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Hai%20(Helen)%20Li%5D_0922.pdf">Link</a></td>
   </tr>
   <tr>
@@ -114,7 +114,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>11.</td>
     <td>11-07-2022</td>
     <td>Barbara Plank</td>
-    <td>Is Human Label Variation Really So Bad for AI?</td>
+    <td>Is Human Label Variation Really so Bad for AI?</td>
     <td><a href="https://github.com/RIT-AWAREAI-NRT/AWARE-AI/blob/ac752c7b6e5681d86017af682e85c80298fb6fc4/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-B.Plank%5D_1122.pdf">Link</a></td>
   </tr>
   <tr>
@@ -145,7 +145,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>15.</td>
     <td>04-10-2023</td>
     <td>Jinjun Xiong</td>
-    <td>The human-side of AI: Envision how AI can help children with speech and language service needs</td>
+    <td>The Human Side of AI: Envision how AI can Help Children with Speech and Language Service Needs</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/cb32c52184deb295b13642f9a932e423d34e41a3/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI_JinjunXiong%5D_0423.pdf">Link</a></td>
   </tr>
 
@@ -280,7 +280,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   </tr>
   </table>
 
-### Multi-Day Events
+### Multi-day Events
 
   <table>
   <tr>
@@ -333,7 +333,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
 
   <tr>
     <td>8.</td>
-    <td>2023 Tutorial: Experience Sampling Method - G. Tigwell</td>
+    <td>2023 Tutorial: Experience Sampling Method - G Tigwell</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/e1597568ffa1caabe2a997280295d6b9beb62913/Materials%20Archive/Multi-day%20Events/AWAREAI_%5BExperience%20Sampling%20Method%20-%20G.W%20Tigwell%5D_.pdf">Link</a></td>
   </tr>
   </table>
@@ -352,7 +352,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   <tr>
     <td>1.</td>
     <td>10-18-2022</td>
-    <td>Arianna et al.</td>
+    <td>Arianna Giguere, et al.</td>
     <td>Multimodal modeling of driving behavior in the presence of distraction</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/37bc6fa8f211f4ca21d6fafae7d3e5546f47d3f1/Materials%20Archive/Poster%20Presentation/AWAREAI_%5BMultimodal%20model%20of%20Driving%20Behaviour%5D_1022.pdf">Link</a></td>
   </tr>
@@ -360,7 +360,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   <tr>
     <td>2.</td>
     <td>NA</td>
-    <td>Cecilia et al.</td>
+    <td>Cecilia Alm, et al.</td>
     <td>NSF Research Traineeship Program</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/05848e45b78c173296e60121bd36dc0e56e8a2ba/Materials%20Archive/Poster%20Presentation/AWAREAI_%5BNSF%20Research%20Traineeship%20Program%5D_.pdf">Link</a></td>
   </tr>
@@ -374,7 +374,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   </tr>
 </table>
 
-### Roundtable 
+### Roundtables on Advanced Topics 
   <table>
   <tr>
     <th>S.No</th>
