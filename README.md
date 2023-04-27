@@ -437,34 +437,27 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
 
   <tr>
     <td>1.</td>
-    <td>Ammina Kothari</td>
-    <td>Storytelling Techniques to STEM Research</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/7d9aa96d9c878a3effe1d91918693aca19e255ee/Materials%20Archive/Workshops/AWAREAI_%5BSlides-Storytelling%20Techniques%20by%20A.Kothari%5D_0223%20.pdf">Link</a></td>
-  </tr>
-
-  <tr>
-    <td>2.</td>
     <td>Irina Mikhalevich</td>
     <td>Democracy, Justice and AI</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/7d9aa96d9c878a3effe1d91918693aca19e255ee/Materials%20Archive/Workshops/AWAREAI_%5BSlides-Democracy,%20Justice%20and%20AI%20by%20I.Mikhalevich%5D_1122.pdf">Link</a></td>
   </tr>
 
   <tr>
-    <td>3.</td>
+    <td>2.</td>
     <td>Scott Franklin</td>
     <td>Colloborative Research Workshop</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/d23f72bd41c480117714be3a82953c5b35d1b8e7/Materials%20Archive/Workshops/AWAREAI_%5BColloborative%20Research%20Workshop%20-%20Scott%20Franklin%5D_1022.pdf">Link</a></td>
+    <td><a href="https://github.com/RIT-AWAREAI-NRT/AWARE-AI-Materials-Archive/blob/365d185ee76edf5e8b308fc46f1f091cbf25cb9e/Materials%20Archive/Workshops/AWAREAI_%5BColloborative%20Research%20Workshop%20-%20Scott%20Franklin%5D_1022.pdf">Link</a></td>
   </tr>
 
   <tr>
-    <td>4.</td>
+    <td>3.</td>
     <td>Taj Smith</td>
     <td>Building a Foundation for Inclusive Research</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/6ae841c74fb164d2d2c46fb035091cbaab0e4231/Materials%20Archive/Workshops/AWAREAI_%5BBuilding%20A%20Foundation%20For%20Inclusive%20Research%20-%20TajSmith%5D_2022.pdf">Link</a></td>
   </tr>
 
    <tr>
-    <td>5.</td>
+    <td>4.</td>
     <td>Irina Mikhalevich</td>
     <td>Responsibility & AI</td>
     <td><a href="https://github.com/RIT-AWAREAI-NRT/AWARE-AI/blob/ac752c7b6e5681d86017af682e85c80298fb6fc4/Materials%20Archive/Workshops/AWAREAI_%5BResponsibility%20&%20AI%20-%20I.Mikhalevich%5D_0123.pdf">Link</a></td>
