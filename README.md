@@ -446,7 +446,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>2.</td>
     <td>Scott Franklin</td>
     <td>Colloborative Research Workshop</td>
-    <td><a href="https://github.com/RIT-AWAREAI-NRT/AWARE-AI-Materials-Archive/blob/365d185ee76edf5e8b308fc46f1f091cbf25cb9e/Materials%20Archive/Workshops/AWAREAI_%5BColloborative%20Research%20Workshop%20-%20Scott%20Franklin%5D_1022.pdf">Link</a></td>
+    <td><a href="https://github.com/RIT-AWAREAI-NRT/AWARE-AI-Materials-Archive/blob/eb45e0e6e179d6d5efc84f481e05f3bbb1950e2b/Materials%20Archive/Workshops/AWAREAI_%5BColloborative%20Research%20Workshop%20-%20Scott%20Franklin%5D_1022.pdf">Link</a></td>
   </tr>
 
   <tr>
