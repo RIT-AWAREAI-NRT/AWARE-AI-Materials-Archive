@@ -322,13 +322,13 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   <tr>
     <td>6.</td>
     <td>2023 Winter Retreat Keynote Talks</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/e1597568ffa1caabe2a997280295d6b9beb62913/Materials%20Archive/Multi-day%20Events/AWAREAI_%5B2023%20Winter%20Retreat%20Schedule%5D_0123.pdf">Link</a></td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/e1597568ffa1caabe2a997280295d6b9beb62913/Materials%20Archive/Multi-day%20Events/AWAREAI_%5B2023%20Winter%20Retreat%20Trainee%20Research%20Program%5D_0123.pdf">Link</a></td>
   </tr>
 
   <tr>
     <td>7.</td>
     <td>2023 Winter Retreat Trainee Research Program</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/e1597568ffa1caabe2a997280295d6b9beb62913/Materials%20Archive/Multi-day%20Events/AWAREAI_%5B2023%20Winter%20Retreat%20Trainee%20Research%20Program%5D_0123.pdf">Link</a></td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/e1597568ffa1caabe2a997280295d6b9beb62913/Materials%20Archive/Multi-day%20Events/AWAREAI_%5B2023%20Winter%20Retreat%20Schedule%5D_0123.pdf">Link</a></td>
   </tr>
 
   <tr>
