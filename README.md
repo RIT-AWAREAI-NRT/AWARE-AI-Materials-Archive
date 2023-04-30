@@ -464,7 +464,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   </tr>
 </table>
 
-AWARE-AI repository is licensed under [CC-BY-NC-SA 3.0 US](https://creativecommons.org/licenses/by-nc-sa/3.0/). This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.
+The AWARE-AI Materials Archive is licensed under [CC-BY-NC-SA 3.0 US](https://creativecommons.org/licenses/by-nc-sa/3.0/). 
 
 [CC-BY-NC-SA 3.0 US License](https://creativecommons.org/licenses/by-nc-sa/3.0/) <br/> 
 [CC-BY-NC-SA 3.0 US Details](https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode)
