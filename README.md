@@ -336,6 +336,13 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>2023 Tutorial: Experience Sampling Method - G Tigwell</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/e1597568ffa1caabe2a997280295d6b9beb62913/Materials%20Archive/Multi-day%20Events/AWAREAI_%5BExperience%20Sampling%20Method%20-%20G.W%20Tigwell%5D_.pdf">Link</a></td>
   </tr>
+
+  <tr>
+    <td>8.</td>
+    <td>2023 2023 Onboarding Bootcamp Schedule</td>
+    <td><a href="Materials Archive/Multi-day Events/2023 AWARE-AI-Onboarding_ Bootcamp Schedule .pdf">Link</a></td>
+  </tr>  
+  
   </table>
 
 ### Poster Presentation
