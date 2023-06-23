@@ -338,8 +338,8 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   </tr>
 
   <tr>
-    <td>8.</td>
-    <td>2023 2023 Onboarding Bootcamp Schedule</td>
+    <td>9.</td>
+    <td>2023 Onboarding Bootcamp Schedule</td>
     <td><a href="Materials Archive/Multi-day Events/2023 AWARE-AI-Onboarding_ Bootcamp Schedule .pdf">Link</a></td>
   </tr>  
   
