@@ -218,7 +218,18 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>AWARE-AI Spring Hackathon Overview</td>
     <td><a href="Materials Archive/Hackathon/Spring2023Hackathon.pdf">Link</a></td>
   </tr>
+
+  <tr>
+    <td>2.</td>
+    <td>NA/td>
+    <td>NA</td>
+    <td>NA</td>
+    <td>AWARE-AI Hackathon Feedback Form</td>
+    <td><a href="Materials Archive/Hackathon/NRT Hackathon Feedback Form.pdf">Link</a></td>
+  </tr>
   </table>
+
+
 
   
 
