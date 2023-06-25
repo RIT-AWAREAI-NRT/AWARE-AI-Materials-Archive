@@ -385,7 +385,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>Oct. 22, 2022</td>
     <td>Posters from multiple Trainees and faculty at AI@RIT Summit 2022</td>
     <td>Multiple titles - eleven posters</td>
-    <td><a href=" ">Link</a></td>
+    <td><a href="Materials Archive/Poster Presentation/AI-RIT-Posters.pdf">Link</a></td>
   </tr>
   
 </table>
