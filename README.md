@@ -212,8 +212,8 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
 
    <tr>
     <td>1.</td>
-    <td>NA</td>
-    <td>NA</td>
+    <td>04-13-2023 - 04-14-2023</td>
+    <td>RIT</td>
     <td>Ferat Sahin and Jamison Heard</td>
     <td>AWARE-AI Spring Hackathon Overview</td>
     <td><a href="Materials Archive/Hackathon/Spring2023Hackathon.pdf">Link</a></td>
@@ -393,7 +393,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
 
    <tr>
     <td>4.</td>
-    <td>Oct. 22, 2022</td>
+    <td>10-22-2022</td>
     <td>Posters from multiple Trainees and faculty at AI@RIT Summit 2022</td>
     <td>Multiple titles - eleven posters</td>
     <td><a href="Materials Archive/Poster Presentation/AI-RIT-Posters.pdf">Link</a></td>
