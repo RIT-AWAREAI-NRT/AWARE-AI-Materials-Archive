@@ -17,11 +17,12 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
 4. [Lab Rotations](#lab-rotations)
 5. [Internships](#internships)
 6. [Mentor Cafe](#mentor-cafe)
-7. [Multi-day Events](#multi-day-events) 
-8. [Poster Presentation](#poster-presentation)
-9. [Roundtables on Advanced Topics](#roundtable)
-10. [Seed Funding](#seed-funding)
-11. [Workshops](#workshops)
+7. [Multi-day Events](#multi-day-events)
+8. [MSI Visits](#MSI Visits). 
+9. [Poster Presentation](#poster-presentation)
+10. [Roundtables on Advanced Topics](#roundtable)
+11. [Seed Funding](#seed-funding)
+12. [Workshops](#workshops)
 
 
 ### CHAI Seminar Series
@@ -377,7 +378,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>1.</td>
     <td>NA</td>
     <td>NA</td>
-    <td>/MSI Visit Prep Agenda and Notes</td>
+    <td>MSI Visit Prep Agenda and Notes</td>
     <td><a href="Materials Archive/MSI Visits/MSI Visit Prep Agenda and Notes.pdf">Link</a></td>
   </tr>
   </table>
