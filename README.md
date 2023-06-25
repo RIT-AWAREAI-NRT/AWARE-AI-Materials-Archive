@@ -228,11 +228,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td><a href="Materials Archive/Hackathon/NRT Hackathon Feedback Form.pdf">Link</a></td>
   </tr>
   </table>
-
-
-
   
-
 ### Lab Rotations
 
 <table>
@@ -288,7 +284,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>NA</td>
     <td>NA</td>
     <td>NA</td>
-    <td>AWARE-AI NRT: Fall Mentor Cafe</td>
+    <td>Mentor Cafe Post-Reflection Form for Trainees</td>
     <td>NA</td>
   </tr>
   </table>
