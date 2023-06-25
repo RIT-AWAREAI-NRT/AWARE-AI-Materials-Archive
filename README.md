@@ -379,6 +379,15 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>Teaching Interactively to Learn Emotions In Natural Language</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/05848e45b78c173296e60121bd36dc0e56e8a2ba/Materials%20Archive/Poster%20Presentation/AWAREAI_%5BTeaching%20Interactively%20to%20Learn%20Emotions%20In%20Natural%20Language%5D_.pdf">Link</a></td>
   </tr>
+
+   <tr>
+    <td>4.</td>
+    <td>Oct. 22, 2022</td>
+    <td>Posters from multiple Trainees and faculty at AI@RIT Summit 2022</td>
+    <td>Multiple titles - eleven posters</td>
+    <td><a href=" ">Link</a></td>
+  </tr>
+  
 </table>
 
 ### Roundtables on Advanced Topics 
