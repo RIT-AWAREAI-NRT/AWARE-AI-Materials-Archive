@@ -362,8 +362,26 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   </table>
 
 
-  
+ ### MSI Visits
 
+  <table>
+  <tr>
+    <th>S.No</th>
+    <th>Date</th>
+    <th>Location</th>  
+    <th>Description</th>
+    <th>Links</th>
+  </tr>
+
+   <tr>
+    <td>1.</td>
+    <td>NA</td>
+    <td>NA</td>
+    <td>/MSI Visit Prep Agenda and Notes</td>
+    <td><a href="Materials Archive/MSI Visits/MSI Visit Prep Agenda and Notes.pdf">Link</a></td>
+  </tr>
+  </table>
+  
 ### Poster Presentation
 
 <table>
