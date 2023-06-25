@@ -221,7 +221,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
 
   <tr>
     <td>2.</td>
-    <td>NA/td>
+    <td>NA</td>
     <td>NA</td>
     <td>NA</td>
     <td>AWARE-AI Hackathon Feedback Form</td>
