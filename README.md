@@ -11,7 +11,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
 
 ### Quick Links
 
-1.[AWARE-AI Database](#aware-ai-database)\
+1. [AWARE-AI Database](#aware-ai-database)\
 2. [CHAI Seminar Series](#chai-seminar-series)\
 3. [Coursework](#coursework)\
 4. [Hackathon](#hackathon)\
