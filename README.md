@@ -11,18 +11,36 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
 
 ### Quick Links
 
-1. [CHAI Seminar Series](#chai-seminar-series)
-2. [Coursework](#coursework)
-3. [Hackathon](#hackathon)
-4. [Lab Rotations](#lab-rotations)
-5. [Internships](#internships)
-6. [Mentor Cafe](#mentor-cafe)
-7. [Multi-day Events](#multi-day-events)
-8. [MSI Visits](#msi-visits)
-9. [Poster Presentation](#poster-presentation)
-10. [Roundtables on Advanced Topics](#roundtable)
-11. [Seed Funding](#seed-funding)
-12. [Workshops](#workshops)
+1.[AWARE-AI Database]
+2. [CHAI Seminar Series](#chai-seminar-series)
+3. [Coursework](#coursework)
+4. [Hackathon](#hackathon)
+5. [Lab Rotations](#lab-rotations)
+6. [Internships](#internships)
+7. [Mentor Cafe](#mentor-cafe)
+8. [Multi-day Events](#multi-day-events)
+9. [MSI Visits](#msi-visits)
+10. [Poster Presentation](#poster-presentation)
+11. [Roundtables on Advanced Topics](#roundtable)
+12. [Seed Funding](#seed-funding)
+13. [Workshops](#workshops)
+
+
+### AWARE-AI Database
+
+<table>
+  <tr>
+    <th>S.No</th>
+    <th>Description</th>
+    <th>Links</th>
+  </tr>
+
+  <tr>
+    <td>1.</td>
+     <td>Trainee Internship Status Survey</td>
+     <td><a href="Materials Archive/Internships/Trainee Internship Status Survey.pdf">Link</a></td>
+  </tr>
+</table>
 
 
 ### CHAI Seminar Series
