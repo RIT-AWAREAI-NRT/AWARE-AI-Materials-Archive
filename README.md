@@ -266,7 +266,15 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <th>Form Type</th>
     <th>Links</th>
   </tr>
+
+  <tr>
+    <th>1.</th>
+    <th>Trainee Internship Status Survey</th>
+     <td><a href="Materials Archive/Internships/Trainee Internship Status Survey.pdf">Link</a></td>
+  </tr>
 </table>
+
+
 
   ### Mentor Cafe
 
