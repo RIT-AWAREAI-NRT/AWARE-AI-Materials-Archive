@@ -211,7 +211,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <th>Links</th>
   </tr>
 
-   <tr>
+  <tr>
     <td>1.</td>
     <td>04-13-2023 - 04-14-2023</td>
     <td>RIT</td>
@@ -256,7 +256,6 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>Trainee Report</td>
     <td><a href="Materials Archive/Lab Rotation/AWAREAI_[NRT lab Rotation Trainee Report - Google Form]_0223.pdf">Link</a></td>
   </tr>
-
   </table>
 
 ### Internships
@@ -281,13 +280,10 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
 
    <tr>
     <th>3.</th>
-    <th>Trainee Internship Status Survey</th>
-     <td><a href="Materials Archive/Internships/Trainee Internship Status Survey.pdf">Link</a></td>
+    <th>Partnership Confirmation Letter Template</th>
+     <td><a href="Materials Archive/Internships/PartnershipConfirmationLetterTemplate-Company.docx.pdf">Link</a></td>
   </tr>
-  
 </table>
-
-
 
   ### Mentor Cafe
 
@@ -380,7 +376,6 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>2023 Onboarding Bootcamp Schedule</td>
     <td><a href="Materials Archive/Multi-day Events/2023 AWARE-AI-Onboarding_ Bootcamp Schedule .pdf">Link</a></td>
   </tr>  
-  
   </table>
 
 
@@ -446,7 +441,6 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>Multiple titles - eleven posters</td>
     <td><a href="Materials Archive/Poster Presentation/AI-RIT-Posters.pdf">Link</a></td>
   </tr>
-  
 </table>
 
 ### Roundtables on Advanced Topics 
