@@ -274,14 +274,14 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   </tr>
 
    <tr>
-    <th>2.</th>
-    <th>Pre-internship Coaching Meeting</th>
+    <td>2.</td>
+    <td>Pre-internship Coaching Meeting</td>
      <td><a href="Materials Archive/Internships/Pre-internshipCoachingMeeting.pdf">Link</a></td>
   </tr>
 
    <tr>
-    <th>3.</th>
-    <th>Partnership Confirmation Letter Template</th>
+    <td>3.</td>
+    <td>Partnership Confirmation Letter Template</td>
      <td><a href="Materials Archive/Internships/PartnershipConfirmationLetterTemplate-Company.docx.pdf">Link</a></td>
   </tr>
 </table>
