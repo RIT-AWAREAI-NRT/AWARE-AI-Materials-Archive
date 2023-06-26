@@ -254,7 +254,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   <tr>
     <td>3.</td>
     <td>Trainee Report</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/8c20d1a4a700e27e7667ef56066efa1b488d93eb/Materials%20Archive/Internships/AWAREAI_%5BNRT%20lab%20Rotation%20Trainee%20Report%20-%20Google%20Form%5D_0223.pdf">Link</a></td>
+    <td><a href="Materials Archive/Lab Rotation/AWAREAI_[NRT lab Rotation Trainee Report - Google Form]_0223.pdf">Link</a></td>
   </tr>
 
   </table>
