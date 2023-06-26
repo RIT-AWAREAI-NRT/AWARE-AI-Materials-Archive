@@ -259,6 +259,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   </table>
 
 ### Internships
+
 <table>
   <tr>
     <th>S.No</th>
@@ -267,8 +268,8 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   </tr>
 
   <tr>
-    <th>1.</th>
-    <th>Trainee Internship Status Survey</th>
+    <td>1.</td>
+     <td>Trainee Internship Status Survey</td>
      <td><a href="Materials Archive/Internships/Trainee Internship Status Survey.pdf">Link</a></td>
   </tr>
 
