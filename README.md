@@ -11,7 +11,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
 
 ### Quick Links
 
-1.[AWARE-AI Database](https://github.com/RIT-AWAREAI-NRT/AWARE-AI-Materials-Archive/blob/main/README.md#aware-ai-database)
+1.[AWARE-AI Database](#aware-ai-database)
 2. [CHAI Seminar Series](#chai-seminar-series)
 3. [Coursework](#coursework)
 4. [Hackathon](#hackathon)
@@ -26,21 +26,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
 13. [Workshops](#workshops)
 
 
-### AWARE-AI Database
 
-<table>
-  <tr>
-    <th>S.No</th>
-    <th>Description</th>
-    <th>Links</th>
-  </tr>
-
-  <tr>
-    <td>1.</td>
-     <td>HumanSensing Data Submission Form</td>
-     <td><a href="Materials Archive/AWARE-AI Database/HumanSensing Data Submission Form.pdf">Link</a></td>
-  </tr>
-</table>
 
 
 ### CHAI Seminar Series
