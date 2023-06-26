@@ -15,11 +15,11 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
 2. [CHAI Seminar Series](#chai-seminar-series)
 3. [Coursework](#coursework)
 4. [Hackathon](#hackathon)
-5. [Lab Rotations](#lab-rotations)
-6. [Internships](#internships)
+5. [Internships](#internships)
+6. [Lab Rotations](#lab-rotations)
 7. [Mentor Cafe](#mentor-cafe)
-8. [Multi-day Events](#multi-day-events)
-9. [MSI Visits](#msi-visits)
+8. [MSI Visits](#msi-visits)
+9. [Multi-day Events](#multi-day-events)
 10. [Poster Presentation](#poster-presentation)
 11. [Roundtables on Advanced Topics](#roundtable)
 12. [Seed Funding](#seed-funding)
@@ -247,34 +247,6 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td><a href="Materials Archive/Hackathon/NRT Hackathon Feedback Form.pdf">Link</a></td>
   </tr>
   </table>
-  
-### Lab Rotations
-
-<table>
-  <tr>
-    <th>S.No</th>
-    <th>Form Type</th>
-    <th>Links</th>
-  </tr>
-
-  <tr>
-    <td>1.</td>
-    <td>Faculty Host Report</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/ca265e916983279c7c8891cc21925bbf3f0321ce/Materials%20Archive/Lab%20Rotation/AWAREAI_%5BNRT%20lab%20rotation%20-%20faculty%20host%20report%20-%20Google%20Forms%5D_0223.pdf">Link</a></td>
-  </tr>
-
-  <tr>
-    <td>2.</td>
-    <td>Student Preference Report</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/ca265e916983279c7c8891cc21925bbf3f0321ce/Materials%20Archive/Lab%20Rotation/AWAREAI_%5BLab%20Rotation%20Preferences%20Form%20-%20Google%20Forms%5D_0223.pdf">Link</a></td>
-  </tr>
-
-  <tr>
-    <td>3.</td>
-    <td>Trainee Report</td>
-    <td><a href="Materials Archive/Lab Rotation/AWAREAI_[NRT lab Rotation Trainee Report - Google Form]_0223.pdf">Link</a></td>
-  </tr>
-  </table>
 
 ### Internships
 
@@ -304,6 +276,34 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   </tr>
 </table>
 
+### Lab Rotations
+
+<table>
+  <tr>
+    <th>S.No</th>
+    <th>Form Type</th>
+    <th>Links</th>
+  </tr>
+
+  <tr>
+    <td>1.</td>
+    <td>Faculty Host Report</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/ca265e916983279c7c8891cc21925bbf3f0321ce/Materials%20Archive/Lab%20Rotation/AWAREAI_%5BNRT%20lab%20rotation%20-%20faculty%20host%20report%20-%20Google%20Forms%5D_0223.pdf">Link</a></td>
+  </tr>
+
+  <tr>
+    <td>2.</td>
+    <td>Student Preference Report</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/ca265e916983279c7c8891cc21925bbf3f0321ce/Materials%20Archive/Lab%20Rotation/AWAREAI_%5BLab%20Rotation%20Preferences%20Form%20-%20Google%20Forms%5D_0223.pdf">Link</a></td>
+  </tr>
+
+  <tr>
+    <td>3.</td>
+    <td>Trainee Report</td>
+    <td><a href="Materials Archive/Lab Rotation/AWAREAI_[NRT lab Rotation Trainee Report - Google Form]_0223.pdf">Link</a></td>
+  </tr>
+  </table>
+
   ### Mentor Cafe
 
   <table>
@@ -326,6 +326,25 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   </tr>
   </table>
 
+ ### MSI Visits
+
+  <table>
+  <tr>
+    <th>S.No</th>
+    <th>Date</th>
+    <th>Location</th>  
+    <th>Description</th>
+    <th>Links</th>
+  </tr>
+
+   <tr>
+    <td>1.</td>
+    <td>NA</td>
+    <td>NA</td>
+    <td>MSI Visit Prep Agenda and Notes</td>
+    <td><a href="Materials Archive/MSI Visits/MSI Visit Prep Agenda and Notes.pdf">Link</a></td>
+  </tr>
+  </table>
  
 ### Multi-day Events
 
@@ -395,27 +414,6 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>2023 Onboarding Bootcamp Schedule</td>
     <td><a href="Materials Archive/Multi-day Events/2023 AWARE-AI-Onboarding_ Bootcamp Schedule .pdf">Link</a></td>
   </tr>  
-  </table>
-
-
- ### MSI Visits
-
-  <table>
-  <tr>
-    <th>S.No</th>
-    <th>Date</th>
-    <th>Location</th>  
-    <th>Description</th>
-    <th>Links</th>
-  </tr>
-
-   <tr>
-    <td>1.</td>
-    <td>NA</td>
-    <td>NA</td>
-    <td>MSI Visit Prep Agenda and Notes</td>
-    <td><a href="Materials Archive/MSI Visits/MSI Visit Prep Agenda and Notes.pdf">Link</a></td>
-  </tr>
   </table>
   
 ### Poster Presentation
