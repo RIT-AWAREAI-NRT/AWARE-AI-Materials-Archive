@@ -18,7 +18,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
 5. [Internships](#internships)
 6. [Mentor Cafe](#mentor-cafe)
 7. [Multi-day Events](#multi-day-events)
-8. [MSI Visits](https://github.com/RIT-AWAREAI-NRT/AWARE-AI-Materials-Archive/blob/main/README.md#msi-visits).
+8. [MSI Visits](https://github.com/RIT-AWAREAI-NRT/AWARE-AI-Materials-Archive/blob/main/README.md#msi-visits)
 9. [Poster Presentation](#poster-presentation)
 10. [Roundtables on Advanced Topics](#roundtable)
 11. [Seed Funding](#seed-funding)
