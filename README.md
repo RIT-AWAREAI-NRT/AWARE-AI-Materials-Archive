@@ -1,4 +1,4 @@
-![](https://github.com/user/banner.png)
+![](banner.png)
 
 # [AWARE-AI](https://www.rit.edu/nrtai/)
 This repository belongs to the AWARE-AI community at RIT and contains links to select AWARE-AI program materials.
