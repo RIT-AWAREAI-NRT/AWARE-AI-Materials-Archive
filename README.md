@@ -558,7 +558,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>5.</td>
     <td>Taj Smith</td>
     <td>Creating Diversity Statements</td>
-    <td><a href="[https://github.com/sm3533/AWARE-AI/blob/6ae841c74fb164d2d2c46fb035091cbaab0e4231/Materials%20Archive/Workshops/AWAREAI_%5BBuilding%20A%20Foundation%20For%20Inclusive%20Research%20-%20TajSmith%5D_2022.pdf](https://github.com/RIT-AWAREAI-NRT/AWARE-AI-Materials-Archive/blob/main/Materials%20Archive/Workshops/AWAREAI_%5BCreating%20Diversity%20Statements%20and%20Prep%20for%20Interviews_Taj%20Smith_2024%5D.pptx)">Link</a></td>
+    <td><a href="[https://github.com/RIT-AWAREAI-NRT/AWARE-AI/blob/ac752c7b6e5681d86017af682e85c80298fb6fc4/Materials%20Archive/Workshops/AWAREAI_%5BResponsibility%20&%20AI%20-%20I.Mikhalevich%5D_0123.pdf](https://github.com/RIT-AWAREAI-NRT/AWARE-AI-Materials-Archive/blob/1b47057de5d08b8109915ed67232991e591939d0/Materials%20Archive/Workshops/AWAREAI_%5BCreating%20Diversity%20Statements%20and%20Prep%20for%20Interviews_Taj%20Smith_2024%5D.pptx)">Link</a></td>
   </tr>
 </table>
 
