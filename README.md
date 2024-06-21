@@ -477,10 +477,10 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
 
   <tr>
     <td>1.</td>
-    <td>04-03-2023</td>
-    <td>Elena Fedorovskaya, Cory Merkel, Alexander Ororbia, Zhiqiang Tao</td>
-    <td>Spring Roundtable - Brain Inspired Algorithms, Hardware, and Interfaces</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/7c2e4bc8fc7e4f4d2e0b62bcc2fb46960cb4577d/Materials%20Archive/Roundtable/AWAREAI_%5BBrain-inspired%20Algorithms,%20Hardware,%20and%20Interfaces%20panel%5D_0323.pdf">Link</a></td>
+    <td>02-06-2023</td>
+    <td>Jessica E. Slentz, Charles Bush, Rain Bosworth, Matthew Seita</td>
+    <td>Spring Roundtable - Grant Writing Panel</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/ca265e916983279c7c8891cc21925bbf3f0321ce/Materials%20Archive/Roundtable/AWAREAI_%5BSpring%20Roundtable%20-%20Grant%20Writing%5D_0223.pdf">Link</a></td>
   </tr>
 
   <tr>
@@ -491,12 +491,12 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/ca265e916983279c7c8891cc21925bbf3f0321ce/Materials%20Archive/Roundtable/AWAREAI_%5BSpring%20Roundtable%20-%20Human-Robot%20Teaming%20and%20AI%20on%20the%20Edge%20panel%5D_0323.pdf">Link</a></td>
   </tr>
 
-  <tr>
-    <td>3.</td>
-    <td>02-06-2023</td>
-    <td>Jessica E. Slentz, Charles Bush, Rain Bosworth, Matthew Seita</td>
-    <td>Spring Roundtable - Grant Writing Panel</td>
-    <td><a href="https://github.com/sm3533/AWARE-AI/blob/ca265e916983279c7c8891cc21925bbf3f0321ce/Materials%20Archive/Roundtable/AWAREAI_%5BSpring%20Roundtable%20-%20Grant%20Writing%5D_0223.pdf">Link</a></td>
+<tr>
+    <td>4.</td>
+    <td>04-03-2023</td>
+    <td>Elena Fedorovskaya, Cory Merkel, Alexander Ororbia, Zhiqiang Tao</td>
+    <td>Spring Roundtable - Brain Inspired Algorithms, Hardware, and Interfaces</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/7c2e4bc8fc7e4f4d2e0b62bcc2fb46960cb4577d/Materials%20Archive/Roundtable/AWAREAI_%5BBrain-inspired%20Algorithms,%20Hardware,%20and%20Interfaces%20panel%5D_0323.pdf">Link</a></td>
   </tr>
 
    <tr>
