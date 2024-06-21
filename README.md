@@ -492,7 +492,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   </tr>
 
 <tr>
-    <td>4.</td>
+    <td>3.</td>
     <td>04-03-2023</td>
     <td>Elena Fedorovskaya, Cory Merkel, Alexander Ororbia, Zhiqiang Tao</td>
     <td>Spring Roundtable - Brain Inspired Algorithms, Hardware, and Interfaces</td>
