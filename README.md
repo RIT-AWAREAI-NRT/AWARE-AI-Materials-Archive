@@ -498,6 +498,14 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>Spring Roundtable - Grant Writing Panel</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/ca265e916983279c7c8891cc21925bbf3f0321ce/Materials%20Archive/Roundtable/AWAREAI_%5BSpring%20Roundtable%20-%20Grant%20Writing%5D_0223.pdf">Link</a></td>
   </tr>
+
+   <tr>
+    <td>4.</td>
+    <td>03-05-2024</td>
+    <td> Jason Nordhaus, Kristen Shinohara, Dan Phillips</td>
+    <td>Spring Roundtable - AI in Accessible Computing</td>
+    <td><a href="https://github.com/RIT-AWAREAI-NRT/AWARE-AI-Materials-Archive/blob/main/Materials%20Archive/Roundtable/AWAREAI_%5BSpring%20Roundtable%20-%20AI%20in%20Accessible%20Computing%5D.pdf">Link</a></td>
+  </tr>
   </table>
 
   ### Seed Funding
