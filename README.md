@@ -560,6 +560,13 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>Creating Diversity Statements</td>
     <td><a href="https://github.com/RIT-AWAREAI-NRT/AWARE-AI-Materials-Archive/blob/main/Materials%20Archive/Workshops/AWAREAI_%5BCreating%20Diversity%20Statements%20and%20Prep%20for%20Interviews_Taj%20Smith_2024%5D.pptx">Link</a></td>
   </tr>
+
+  <tr>
+    <td>6.</td>
+    <td>Joy Olabisi</td>
+    <td>Teamwork and Collaborative Research</td>
+    <td><a href="https://github.com/RIT-AWAREAI-NRT/AWARE-AI-Materials-Archive/blob/main/Materials%20Archive/Workshops/AWAREAI%20%5BTeamwork%20Workshop_Joy%20Olabisi_2023%5D.pdf">Link</a></td>
+  </tr>
 </table>
 
 The AWARE-AI Materials Archive is licensed under [CC-BY-NC-SA 3.0 US](https://creativecommons.org/licenses/by-nc-sa/3.0/). 
