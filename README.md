@@ -553,6 +553,13 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>Responsibility & AI</td>
     <td><a href="https://github.com/RIT-AWAREAI-NRT/AWARE-AI/blob/ac752c7b6e5681d86017af682e85c80298fb6fc4/Materials%20Archive/Workshops/AWAREAI_%5BResponsibility%20&%20AI%20-%20I.Mikhalevich%5D_0123.pdf">Link</a></td>
   </tr>
+
+  <tr>
+    <td>5.</td>
+    <td>Taj Smith</td>
+    <td>Creating Diversity Statements</td>
+    <td><a href="https://github.com/sm3533/AWARE-AI/blob/6ae841c74fb164d2d2c46fb035091cbaab0e4231/Materials%20Archive/Workshops/AWAREAI_%5BBuilding%20A%20Foundation%20For%20Inclusive%20Research%20-%20TajSmith%5D_2022.pdf">Link</a></td>
+  </tr>
 </table>
 
 The AWARE-AI Materials Archive is licensed under [CC-BY-NC-SA 3.0 US](https://creativecommons.org/licenses/by-nc-sa/3.0/). 
