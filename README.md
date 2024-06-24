@@ -186,6 +186,38 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>Multimodal Machine Learning for Understanding Human Behavioral Data</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/f698c75487583d5ddceedb48ac0dfa5158bf684f/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI-Ervine%20Zheng%5D_0423.pdf">Link</a></td>
   </tr>
+
+  <tr>
+    <td>18.</td>
+    <td>03-04-2024</td>
+    <td>Mahsa Mozaffari</td>
+    <td>Improving Reliability of Visual Question Answering Models</td>
+    <td><a href="https://github.com/RIT-AWAREAI-NRT/AWARE-AI-Materials-Archive/blob/main/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI_Mahsa%20Mozaffari%204March2024%5D.pdf">Link</a></td>
+  </tr>
+
+  <tr>
+    <td>19.</td>
+    <td>03-25-2024</td>
+    <td>Ali Baheri</td>
+    <td>Evolving AI Decision-Making: From Safe Reinforcement Learning to Intelligent Systems with Language Models</td>
+    <td><a href="https://github.com/RIT-AWAREAI-NRT/AWARE-AI-Materials-Archive/blob/main/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI_Ali%20Baheri_25March2024%5D.pdf">Link</a></td>
+  </tr>
+
+  <tr>
+    <td>20.</td>
+    <td>04-01-2024</td>
+    <td>Peter Sadowski</td>
+    <td>How AI is Accelerating Science</td>
+    <td><a href="https://github.com/RIT-AWAREAI-NRT/AWARE-AI-Materials-Archive/blob/main/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI_Peter%20Sadowski_1April2024%5D.pdf">Link</a></td>
+  </tr>
+
+  <tr>
+    <td>21.</td>
+    <td>04-22-2024</td>
+    <td>Thomas Wiecki</td>
+    <td>Marketing Analytics 3.0: GenAI + Bayes</td>
+    <td><a href="https://github.com/RIT-AWAREAI-NRT/AWARE-AI-Materials-Archive/blob/main/Materials%20Archive/CHAI%20Seminar/AWAREAI_%5BCHAI_Thomas%20Wiecki_22April2024%5D.pdf">Link</a></td>
+  </tr>
 </table>
 
 ### Coursework
