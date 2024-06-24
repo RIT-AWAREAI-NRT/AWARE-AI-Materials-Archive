@@ -415,7 +415,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
   <tr>
     <td>10.</td>
     <td>2023 Onboarding Bootcamp Schedule</td>
-    <td><a href="Materials Archive/Multi-day Events/2023 AWARE-AI-Onboarding_ Bootcamp Schedule .pdf">Link</a></td>
+    <td><a href="https://github.com/RIT-AWAREAI-NRT/AWARE-AI-Materials-Archive/blob/main/Materials%20Archive/Multi-day%20Events/AWAREAI_%5B2023%20AWARE-AI%20Onboarding%20Bootcamp%20Schedule%5D.pdf">Link</a></td>
   </tr>  
 
   <tr>
