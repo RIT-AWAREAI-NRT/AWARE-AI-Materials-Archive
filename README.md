@@ -205,7 +205,7 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>08-21-2022</td>
     <td>Esa Rantanen</td>
     <td>PSYC 719</td>
-    <td>Human Factors in Artificial Intelligence - Syllabus</td>
+    <td>Human Factors in Artificial Intelligence Syllabus - Fall 2022</td>
     <td><a href="https://github.com/sm3533/AWARE-AI/blob/8c3d69438a9c5fe4d13ab8f77e1cb8202aa10ad7/Materials%20Archive/Coursework/AWAREAI_%5BPSYC%20719%20Syllabus%5D_0822.pdf">Link</a></td>
   </tr>
 
