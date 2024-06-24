@@ -347,6 +347,14 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td>MSI Visit Prep Agenda and Notes</td>
     <td><a href="Materials Archive/MSI Visits/MSI Visit Prep Agenda and Notes.pdf">Link</a></td>
   </tr>
+
+  <tr>
+    <td>2.</td>
+    <td>NA</td>
+    <td>NA</td>
+    <td>MSI Suggested Trainee Campus Visit Schedule</td>
+    <td><a href="https://github.com/RIT-AWAREAI-NRT/AWARE-AI-Materials-Archive/blob/main/Materials%20Archive/MSI%20Visits/Suggested%20Trainee%20Campus%20Visit%20Schedule%20Template.pdf">Link</a></td>
+  </tr>
   </table>
  
 ### Multi-day Events
