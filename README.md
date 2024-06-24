@@ -418,6 +418,12 @@ Link to the AWARE-AI Video Archive: https://www.youtube.com/channel/UCxA5yRbu1or
     <td><a href="Materials Archive/Multi-day Events/2023 AWARE-AI-Onboarding_ Bootcamp Schedule .pdf">Link</a></td>
   </tr>  
 
+  <tr>
+    <td>11.</td>
+    <td>2024 Winter Retreat - G Tigwell</td>
+    <td><a href="https://github.com/RIT-AWAREAI-NRT/AWARE-AI-Materials-Archive/blob/main/Materials%20Archive/Multi-day%20Events/AWAREAI_%20%5B2024%20Winter%20Retreat%20Schedule%5D.pdf">Link</a></td>
+  </tr>
+
   
   </table>
   
